@@ -9,6 +9,7 @@ tasks:
 - configure-git: |-
     git config --global user.email "aaronkelly@fastmil.com"
     git config --global user.name "Aaron Kelly"
+    git config pull.rebase true
 - push-to-github: |-
     echo -e "Host *\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
     cd "$REPO_NAME"
