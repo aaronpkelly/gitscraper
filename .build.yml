@@ -13,5 +13,5 @@ tasks:
     echo -e "Host *\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
     cd "$REPO_NAME"
     git checkout master
-    git remote set-url origin git@github.com:aaronpkelly/"REPO_NAME"
+    git remote set-url origin git@github.com:aaronpkelly/"$REPO_NAME"
     git push -u origin master --force
