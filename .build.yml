@@ -15,4 +15,5 @@ tasks:
     git checkout master
     git remote set-url origin git@github.com:aaronpkelly/"$REPO_NAME"
     git pull
+    git add -u && git commit -m 'merge'
     git push -u origin master 
