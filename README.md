@@ -1,6 +1,6 @@
 # demo
 
-just view the automated commits in this repository
+just view the commit history to a JSON file in this repository to see the changes over time
 
 # about
 
