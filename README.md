@@ -8,4 +8,4 @@ my own git scraper, inspired by [this article](https://news.ycombinator.com/item
 
 it's an excuse to try github actions, and try out these features that git.sr.ht lacks atm:
 
-- the automated CRON job!
+- the automated CRON job!!
