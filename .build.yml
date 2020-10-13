@@ -14,4 +14,4 @@ tasks:
     cd "$REPO_NAME"
     git checkout master
     git remote set-url origin git@github.com:aaronpkelly/"$REPO_NAME"
-    git push -u origin master --force
+    git push -u origin master 
