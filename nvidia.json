@@ -4621,7 +4621,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18316011,
+    "id": 100564911,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4637,7 +4637,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
+    "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -5122,12 +5122,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18111711,
+    "id": 100892511,
     "title": "HITMAN™",
-    "sortName": "hitman_6",
+    "sortName": "hitman_6_egs",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/236870",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Io Interactive",
     "genres": [
       "Action"
@@ -5135,12 +5135,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100892511,
+    "id": 18111711,
     "title": "HITMAN™",
-    "sortName": "hitman_egs",
+    "sortName": "hitman_6_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/236870",
+    "store": "Steam",
     "publisher": "Io Interactive",
     "genres": [
       "Action"
@@ -7412,12 +7412,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 17943611,
+    "id": 100366111,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/238960",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Adventure",
@@ -7428,12 +7428,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100366111,
+    "id": 17943611,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
+    "steamUrl": "https://store.steampowered.com/app/238960",
+    "store": "Steam",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Adventure",
@@ -8147,6 +8147,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100899311,
+    "title": "Replica Trial",
+    "sortName": "replica_trial",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Somi",
+    "genres": [
+      "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100478911,
     "title": "REZ PLZ",
     "sortName": "rez_plz",
@@ -8283,7 +8296,7 @@
   {
     "id": 100196111,
     "title": "Risen 3 - Titan Lords",
-    "sortName": "risen_3_-_titan_lords",
+    "sortName": "risen_3_-_titan_lords_-_gfn_pc",
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/249230",
     "store": "Steam",
@@ -8404,7 +8417,7 @@
       "First-Person Shooter",
       "Massively Multiplayer Online"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 100912911,
@@ -8746,6 +8759,20 @@
       "Adventure",
       "Indie",
       "Massively Multiplayer Online"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100285711,
+    "title": "Second Extinction™",
+    "sortName": "second_extinction",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1024380",
+    "store": "Steam",
+    "publisher": "Systemic Reaction - Avalanche Studios Group",
+    "genres": [
+      "Action",
+      "First-Person Shooter"
     ],
     "status": "AVAILABLE"
   },
@@ -9172,6 +9199,20 @@
     "publisher": "Frictional Games",
     "genres": [
       "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100899211,
+    "title": "Songbird Symphony Trial",
+    "sortName": "songbird_symphony_trial",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "PQube",
+    "genres": [
       "Adventure",
       "Indie"
     ],
@@ -10301,10 +10342,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376211,
+    "id": 18114511,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -10315,10 +10356,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18114511,
+    "id": 100376211,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -10562,7 +10603,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100080711,
+    "id": 100352311,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -10576,7 +10617,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100352311,
+    "id": 100080711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -11556,7 +11597,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574511,
+    "id": 100574411,
     "title": "Warface",
     "sortName": "warface",
     "isFullyOptimized": false,
@@ -11571,7 +11612,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574411,
+    "id": 100574511,
     "title": "Warface",
     "sortName": "warface",
     "isFullyOptimized": false,
@@ -11616,7 +11657,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100374711,
+    "id": 11285111,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -11631,7 +11672,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 11285111,
+    "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -11661,7 +11702,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100351411,
+    "id": 100374711,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -11833,13 +11874,13 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100234911,
+    "id": 100368511,
     "title": "War Thunder",
     "sortName": "war_thunder_s",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/236390",
-    "store": "Steam",
-    "publisher": "Gaijin Entertainment",
+    "steamUrl": "",
+    "store": "",
+    "publisher": "DMM Games",
     "genres": [
       "Massively Multiplayer Online",
       "Free To Play",
@@ -11849,13 +11890,13 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100368511,
+    "id": 100234911,
     "title": "War Thunder",
     "sortName": "war_thunder_s",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "DMM Games",
+    "steamUrl": "https://store.steampowered.com/app/236390",
+    "store": "Steam",
+    "publisher": "Gaijin Entertainment",
     "genres": [
       "Massively Multiplayer Online",
       "Free To Play",
