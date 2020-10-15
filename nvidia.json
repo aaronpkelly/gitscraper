@@ -324,13 +324,13 @@
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
-    "publisher": "XL Games",
+    "publisher": "gamigo AG",
     "genres": [
       "Free To Play",
       "Massively Multiplayer Online",
       "Role Playing"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100079511,
@@ -4259,12 +4259,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100153511,
+    "id": 100656511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/304390",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -4273,12 +4273,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100656511,
+    "id": 100153511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/304390",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -4621,7 +4621,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
+    "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4637,7 +4637,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18316011,
+    "id": 100564911,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4853,10 +4853,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 19111,
+    "id": 100370111,
     "title": "Half-Life® 2",
     "sortName": "half_life_2",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/220",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -4867,10 +4867,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100370111,
+    "id": 19111,
     "title": "Half-Life® 2",
     "sortName": "half_life_2",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/220",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -6011,12 +6011,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100375911,
+    "id": 100037811,
     "title": "Left 4 Dead 2",
     "sortName": "left_4_dead_2",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/550",
+    "store": "Steam",
     "publisher": "Valve Software",
     "genres": [
       "Action",
@@ -6025,12 +6025,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100037811,
+    "id": 100375911,
     "title": "Left 4 Dead 2",
     "sortName": "left_4_dead_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/550",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
     "publisher": "Valve Software",
     "genres": [
       "Action",
@@ -7215,6 +7215,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101573011,
+    "title": "Out of Reach: Treasure Royale",
+    "sortName": "out_of_reach:_treasure_royale",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/867400",
+    "store": "Steam",
+    "publisher": "PlayWay S.A.",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Massively Multiplayer Online"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100818911,
     "title": "Overcooked",
     "sortName": "overcooked_1_epic_games",
@@ -7412,12 +7427,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100366111,
+    "id": 17943611,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
+    "steamUrl": "https://store.steampowered.com/app/238960",
+    "store": "Steam",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Adventure",
@@ -7428,12 +7443,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 17943611,
+    "id": 100366111,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/238960",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Adventure",
@@ -7472,7 +7487,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376011,
+    "id": 100039111,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
     "isFullyOptimized": true,
@@ -7487,7 +7502,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100039111,
+    "id": 100376011,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
     "isFullyOptimized": true,
@@ -8022,7 +8037,7 @@
   {
     "id": 100817711,
     "title": "Rayman® Legends",
-    "sortName": "rayman_legends_-_epic_games_store",
+    "sortName": "rayman_legends:_definite_edition_-_epic_games_store",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
@@ -8038,7 +8053,7 @@
   {
     "id": 100009811,
     "title": "Rayman® Legends",
-    "sortName": "rayman_legends_-_uplay",
+    "sortName": "rayman_legends:_definite_edition_-_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "UPLAY",
@@ -8417,7 +8432,7 @@
       "First-Person Shooter",
       "Massively Multiplayer Online"
     ],
-    "status": "PATCHING"
+    "status": "AVAILABLE"
   },
   {
     "id": 100912911,
@@ -11597,7 +11612,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574411,
+    "id": 100574511,
     "title": "Warface",
     "sortName": "warface",
     "isFullyOptimized": false,
@@ -11612,7 +11627,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574511,
+    "id": 100574411,
     "title": "Warface",
     "sortName": "warface",
     "isFullyOptimized": false,
@@ -11657,36 +11672,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 11285111,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100351411,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100341511,
     "title": "Warframe",
     "sortName": "warframe",
@@ -11703,6 +11688,36 @@
   },
   {
     "id": 100374711,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 11285111,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
