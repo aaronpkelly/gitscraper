@@ -324,13 +324,13 @@
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
-    "publisher": "gamigo AG",
+    "publisher": "XL Games",
     "genres": [
       "Free To Play",
       "Massively Multiplayer Online",
       "Role Playing"
     ],
-    "status": "MAINTENANCE"
+    "status": "AVAILABLE"
   },
   {
     "id": 100079511,
@@ -1631,6 +1631,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100394811,
+    "title": "Cake Bash",
+    "sortName": "cake_bash",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/971690",
+    "store": "Steam",
+    "publisher": "Coatsink",
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100563911,
     "title": "Caliber",
     "sortName": "caliber_-_cis",
@@ -2174,7 +2189,7 @@
       "Racing",
       "Free To Play"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 100100911,
@@ -4621,7 +4636,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18316011,
+    "id": 100564911,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4637,7 +4652,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
+    "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -5850,6 +5865,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100819211,
+    "title": "Kingdom: New Lands",
+    "sortName": "kingdom_new_lands_egs",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
+    "publisher": "Raw Fury Games",
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100301511,
     "title": "Kingdom Two Crowns",
     "sortName": "kingdom_two_crowns",
@@ -6011,12 +6041,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100037811,
+    "id": 100375911,
     "title": "Left 4 Dead 2",
     "sortName": "left_4_dead_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/550",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
     "publisher": "Valve Software",
     "genres": [
       "Action",
@@ -6025,12 +6055,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100375911,
+    "id": 100037811,
     "title": "Left 4 Dead 2",
     "sortName": "left_4_dead_2",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/550",
+    "store": "Steam",
     "publisher": "Valve Software",
     "genres": [
       "Action",
@@ -6374,6 +6404,22 @@
     "genres": [
       "Action",
       "Massively Multiplayer Online",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100842611,
+    "title": "Medieval Dynasty",
+    "sortName": "medieval_dynasty",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1129580",
+    "store": "Steam",
+    "publisher": "Toplitz Productions",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role Playing",
       "Simulation"
     ],
     "status": "AVAILABLE"
@@ -7217,7 +7263,7 @@
   {
     "id": 101573011,
     "title": "Out of Reach: Treasure Royale",
-    "sortName": "out_of_reach:_treasure_royale",
+    "sortName": "out_of_reach_treasure_royale",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/867400",
     "store": "Steam",
@@ -7745,6 +7791,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100480911,
+    "title": "Port Royale 4",
+    "sortName": "port_royale_4_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1024650",
+    "store": "Steam",
+    "publisher": "Kalypso Media Group GmbH",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100634411,
     "title": "POSTAL 2",
     "sortName": "postal_2",
@@ -7862,6 +7922,20 @@
     "sortName": "pro_cycling_manager_2017",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/525920",
+    "store": "Steam",
+    "publisher": "Focus Home Interactive",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100404311,
+    "title": "Pro Cycling Manager 2018",
+    "sortName": "pro_cycling_manager_2018",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/704230",
     "store": "Steam",
     "publisher": "Focus Home Interactive",
     "genres": [
@@ -8164,7 +8238,7 @@
   {
     "id": 100899311,
     "title": "Replica Trial",
-    "sortName": "replica_trial",
+    "sortName": "replica_trial_gfn_pc",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
@@ -9039,6 +9113,36 @@
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
+    "publisher": "My.com B.V.",
+    "genres": [
+      "Free To Play",
+      "Massively Multiplayer Online",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100860411,
+    "title": "Skyforge",
+    "sortName": "skyforge_my.com",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Mail.ru Group",
+    "genres": [
+      "Free To Play",
+      "Massively Multiplayer Online",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18105411,
+    "title": "Skyforge",
+    "sortName": "skyforge_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/414530",
+    "store": "Steam",
     "publisher": "My.com B.V.",
     "genres": [
       "Free To Play",
@@ -10357,10 +10461,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18114511,
+    "id": 100376211,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -10371,10 +10475,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376211,
+    "id": 18114511,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -10493,6 +10597,19 @@
     "genres": [
       "Action",
       "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100639211,
+    "title": "Thief: Deadly Shadows",
+    "sortName": "thief_deadly_shadows",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/6980",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -10618,7 +10735,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100352311,
+    "id": 100080711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -10632,7 +10749,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100080711,
+    "id": 100352311,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -11527,6 +11644,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100932011,
+    "title": "UNO",
+    "sortName": "uno_uplay",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "UPLAY",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Casual",
+      "Family",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100768411,
     "title": "Untitled Goose Game",
     "sortName": "untitled_goose_game_steam",
@@ -11612,7 +11744,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574511,
+    "id": 100574411,
     "title": "Warface",
     "sortName": "warface",
     "isFullyOptimized": false,
@@ -11627,7 +11759,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574411,
+    "id": 100574511,
     "title": "Warface",
     "sortName": "warface",
     "isFullyOptimized": false,
@@ -11687,21 +11819,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100374711,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 11285111,
     "title": "Warframe",
     "sortName": "warframe",
@@ -11718,6 +11835,21 @@
   },
   {
     "id": 100351411,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100374711,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
