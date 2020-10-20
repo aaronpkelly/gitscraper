@@ -130,7 +130,7 @@
       "Massively Multiplayer Online",
       "Role Playing"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 17948311,
@@ -767,7 +767,7 @@
     "id": 100689111,
     "title": "Assassin's Creed® Unity",
     "sortName": "assassins_creed_08_epic_games",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "",
     "store": "Epic",
     "publisher": "Ubisoft",
@@ -4680,7 +4680,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18316011,
+    "id": 100564911,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4696,7 +4696,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
+    "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4912,10 +4912,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100370111,
+    "id": 19111,
     "title": "Half-Life® 2",
     "sortName": "half_life_2",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/220",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -4926,10 +4926,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 19111,
+    "id": 100370111,
     "title": "Half-Life® 2",
     "sortName": "half_life_2",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/220",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -6085,12 +6085,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100375911,
+    "id": 100037811,
     "title": "Left 4 Dead 2",
     "sortName": "left_4_dead_2",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/550",
+    "store": "Steam",
     "publisher": "Valve Software",
     "genres": [
       "Action",
@@ -6099,12 +6099,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100037811,
+    "id": 100375911,
     "title": "Left 4 Dead 2",
     "sortName": "left_4_dead_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/550",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
     "publisher": "Valve Software",
     "genres": [
       "Action",
@@ -8548,7 +8548,7 @@
       "Racing",
       "Sports"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 100854411,
@@ -10532,10 +10532,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18114511,
+    "id": 100376211,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -10546,10 +10546,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376211,
+    "id": 18114511,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -10569,24 +10569,6 @@
     "publisher": "Humble Bundle",
     "genres": [
       "Adventure",
-      "Indie",
-      "Massively Multiplayer Online",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100222811,
-    "title": "TERA",
-    "sortName": "tera_-_europe",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/212740",
-    "store": "Steam",
-    "publisher": "Gameforge 4D GmbH",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Free To Play",
       "Indie",
       "Massively Multiplayer Online",
       "Role Playing"
@@ -10806,7 +10788,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100080711,
+    "id": 100352311,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -10820,7 +10802,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100352311,
+    "id": 100080711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -11830,21 +11812,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574511,
-    "title": "Warface",
-    "sortName": "warface",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Mail.ru Group",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100368811,
     "title": "Warface",
     "sortName": "warface_-_mail.ru_-_russia/cis",
@@ -11890,21 +11857,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 11285111,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
@@ -11924,6 +11876,21 @@
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 11285111,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/230410",
     "store": "Steam",
     "publisher": "Digital Extremes",
@@ -12155,7 +12122,7 @@
     "id": 100656811,
     "title": "Watch_Dogs® 2",
     "sortName": "watch_dogs_2_epic_games",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "",
     "store": "Epic",
     "publisher": "Ubisoft",
@@ -12484,21 +12451,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100133011,
-    "title": "World of Tanks",
-    "sortName": "world_of_tanks_-_europe",
-    "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Wargaming Group Limited",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100368911,
     "title": "World of Tanks",
     "sortName": "world_of_tanks_-_russia",
@@ -12544,22 +12496,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100570311,
-    "title": "World of Warplanes",
-    "sortName": "world_of_warplanes_-_europe",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Wargaming Group Limited",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Massively Multiplayer Online",
-      "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100570411,
     "title": "World of Warplanes",
     "sortName": "world_of_warplanes_-_north_america",
@@ -12595,22 +12531,6 @@
     "id": 100542911,
     "title": "World of Warships",
     "sortName": "world_of_warships_-_asia",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Wargaming Group Limited",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Massively Multiplayer Online",
-      "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100187611,
-    "title": "World of Warships",
-    "sortName": "world_of_warships_-_wargaming_europe",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
