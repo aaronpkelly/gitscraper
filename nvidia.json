@@ -15,6 +15,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100931611,
+    "title": "8Doors: Arum's Afterlife Adventure Trial",
+    "sortName": "8doors:_arum's_afterlife_adventure_trial",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Rootless Studio",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100129011,
     "title": "Absolver",
     "sortName": "absolver",
@@ -130,7 +145,7 @@
       "Massively Multiplayer Online",
       "Role Playing"
     ],
-    "status": "PATCHING"
+    "status": "AVAILABLE"
   },
   {
     "id": 17948311,
@@ -315,7 +330,7 @@
       "Adventure",
       "Indie"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100615711,
@@ -1630,7 +1645,7 @@
       "Indie",
       "Platformer"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100600511,
@@ -4305,12 +4320,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100656511,
+    "id": 100153511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/304390",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -4319,12 +4334,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100153511,
+    "id": 100656511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/304390",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -4796,7 +4811,7 @@
       "Massively Multiplayer Online",
       "Role Playing"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100587911,
@@ -5732,7 +5747,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100222711,
+    "id": 100857011,
     "title": "Just Cause 4 Reloaded",
     "sortName": "just_cause_4_reloaded_steam",
     "isFullyOptimized": false,
@@ -5746,7 +5761,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100857011,
+    "id": 100222711,
     "title": "Just Cause 4 Reloaded",
     "sortName": "just_cause_4_reloaded_steam",
     "isFullyOptimized": false,
@@ -7074,6 +7089,20 @@
     "genres": [
       "Sports",
       "Racing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100931711,
+    "title": "Needlesong Trial",
+    "sortName": "needlesong_trial",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Youngmin Park",
+    "genres": [
+      "Action",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -8548,7 +8577,7 @@
       "Racing",
       "Sports"
     ],
-    "status": "PATCHING"
+    "status": "AVAILABLE"
   },
   {
     "id": 100854411,
@@ -8590,6 +8619,19 @@
     "genres": [
       "Simulation",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100899811,
+    "title": "RP7 Trial",
+    "sortName": "rp7_trial",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Turtle Cream",
+    "genres": [
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -9821,7 +9863,7 @@
       "Simulation",
       "Strategy"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100568711,
@@ -10532,10 +10574,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376211,
+    "id": 18114511,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -10546,10 +10588,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18114511,
+    "id": 100376211,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -10569,6 +10611,24 @@
     "publisher": "Humble Bundle",
     "genres": [
       "Adventure",
+      "Indie",
+      "Massively Multiplayer Online",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100222811,
+    "title": "TERA",
+    "sortName": "tera_-_europe",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/212740",
+    "store": "Steam",
+    "publisher": "Gameforge 4D GmbH",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play",
       "Indie",
       "Massively Multiplayer Online",
       "Role Playing"
@@ -11812,6 +11872,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100574511,
+    "title": "Warface",
+    "sortName": "warface",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Mail.ru Group",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer Online"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100368811,
     "title": "Warface",
     "sortName": "warface_-_mail.ru_-_russia/cis",
@@ -11838,6 +11913,21 @@
       "Action",
       "Free To Play",
       "Massively Multiplayer Online"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 11285111,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
     ],
     "status": "AVAILABLE"
   },
@@ -11876,21 +11966,6 @@
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 11285111,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/230410",
     "store": "Steam",
     "publisher": "Digital Extremes",
@@ -12059,13 +12134,13 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100234911,
+    "id": 100368511,
     "title": "War Thunder",
     "sortName": "war_thunder_s",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/236390",
-    "store": "Steam",
-    "publisher": "Gaijin Entertainment",
+    "steamUrl": "",
+    "store": "",
+    "publisher": "DMM Games",
     "genres": [
       "Massively Multiplayer Online",
       "Free To Play",
@@ -12075,13 +12150,13 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100368511,
+    "id": 100234911,
     "title": "War Thunder",
     "sortName": "war_thunder_s",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "DMM Games",
+    "steamUrl": "https://store.steampowered.com/app/236390",
+    "store": "Steam",
+    "publisher": "Gaijin Entertainment",
     "genres": [
       "Massively Multiplayer Online",
       "Free To Play",
@@ -12451,6 +12526,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100133011,
+    "title": "World of Tanks",
+    "sortName": "world_of_tanks_-_europe",
+    "isFullyOptimized": true,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Wargaming Group Limited",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer Online"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100368911,
     "title": "World of Tanks",
     "sortName": "world_of_tanks_-_russia",
@@ -12496,6 +12586,22 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100570311,
+    "title": "World of Warplanes",
+    "sortName": "world_of_warplanes_-_europe",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Wargaming Group Limited",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer Online",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100570411,
     "title": "World of Warplanes",
     "sortName": "world_of_warplanes_-_north_america",
@@ -12531,6 +12637,22 @@
     "id": 100542911,
     "title": "World of Warships",
     "sortName": "world_of_warships_-_asia",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Wargaming Group Limited",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer Online",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100187611,
+    "title": "World of Warships",
+    "sortName": "world_of_warships_-_wargaming_europe",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
