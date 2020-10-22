@@ -17,7 +17,7 @@
   {
     "id": 100931611,
     "title": "8Doors: Arum's Afterlife Adventure Trial",
-    "sortName": "8doors:_arum's_afterlife_adventure_trial",
+    "sortName": "8doors_arum_s_afterlife_adventure_trial",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
@@ -207,6 +207,34 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100935911,
+    "title": "Amnesia: Rebirth",
+    "sortName": "amnesia_rebith_egs",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
+    "publisher": "Frictional Games",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100550611,
+    "title": "Amnesia: Rebirth",
+    "sortName": "amnesia_rebith_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/999220",
+    "store": "Steam",
+    "publisher": "Frictional Games",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100331611,
     "title": "Anno 1800™",
     "sortName": "anno_1800_-_epic_games_store",
@@ -263,7 +291,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100224011,
+    "id": 100053811,
     "title": "Anno 2205™",
     "sortName": "anno_2205",
     "isFullyOptimized": false,
@@ -277,7 +305,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100053811,
+    "id": 100224011,
     "title": "Anno 2205™",
     "sortName": "anno_2205",
     "isFullyOptimized": false,
@@ -3978,7 +4006,7 @@
     "id": 3134111,
     "title": "Far Cry® 3",
     "sortName": "far_cry_3_uplay",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "",
     "store": "UPLAY",
     "publisher": "Ubisoft",
@@ -4695,7 +4723,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
+    "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4711,7 +4739,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18316011,
+    "id": 100564911,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -5189,7 +5217,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/203140",
     "store": "Steam",
-    "publisher": "Io Interactive",
+    "publisher": "IO Interactive A/S",
     "genres": [
       "Action"
     ],
@@ -5202,7 +5230,7 @@
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
-    "publisher": "Io Interactive",
+    "publisher": "IO Interactive A/S",
     "genres": [
       "Action"
     ],
@@ -5215,7 +5243,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/236870",
     "store": "Steam",
-    "publisher": "Io Interactive",
+    "publisher": "IO Interactive A/S",
     "genres": [
       "Action"
     ],
@@ -6100,12 +6128,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100037811,
+    "id": 100375911,
     "title": "Left 4 Dead 2",
     "sortName": "left_4_dead_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/550",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
     "publisher": "Valve Software",
     "genres": [
       "Action",
@@ -6114,12 +6142,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100375911,
+    "id": 100037811,
     "title": "Left 4 Dead 2",
     "sortName": "left_4_dead_2",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/550",
+    "store": "Steam",
     "publisher": "Valve Software",
     "genres": [
       "Action",
@@ -7559,12 +7587,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100366111,
+    "id": 17943611,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
+    "steamUrl": "https://store.steampowered.com/app/238960",
+    "store": "Steam",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Adventure",
@@ -7575,12 +7603,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 17943611,
+    "id": 100366111,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/238960",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Adventure",
@@ -8556,6 +8584,7 @@
       "Action",
       "Arcade",
       "Casual",
+      "Free To Play",
       "Racing",
       "Sports"
     ],
@@ -10848,7 +10877,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100352311,
+    "id": 100080711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -10862,7 +10891,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100080711,
+    "id": 100352311,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -11857,7 +11886,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574411,
+    "id": 100574511,
     "title": "Warface",
     "sortName": "warface",
     "isFullyOptimized": false,
@@ -11872,7 +11901,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574511,
+    "id": 100574411,
     "title": "Warface",
     "sortName": "warface",
     "isFullyOptimized": false,
@@ -11917,6 +11946,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100351411,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 11285111,
     "title": "Warframe",
     "sortName": "warframe",
@@ -11933,21 +11977,6 @@
   },
   {
     "id": 100374711,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
