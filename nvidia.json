@@ -1404,7 +1404,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/836620",
     "store": "Steam",
-    "publisher": "Pearl Abyss",
+    "publisher": "Red Fox Games",
     "genres": [
       "Action",
       "Adventure",
@@ -1440,7 +1440,7 @@
     "isFullyOptimized": true,
     "steamUrl": "",
     "store": "",
-    "publisher": "Pearl Abyss",
+    "publisher": "Red Fox Games",
     "genres": [
       "Action",
       "Adventure",
@@ -1516,7 +1516,7 @@
   {
     "id": 100358811,
     "title": "Blair Witch",
-    "sortName": "blair_witch",
+    "sortName": "blair_witch_-_steam",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/1092660",
     "store": "Steam",
@@ -3123,6 +3123,36 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 17938011,
+    "title": "Don't Starve",
+    "sortName": "dont_starve",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/219740",
+    "store": "Steam",
+    "publisher": "Klei Entertainment",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18100711,
+    "title": "Don't Starve Together",
+    "sortName": "don_t_starve_together",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/322330",
+    "store": "Steam",
+    "publisher": "Klei Entertainment",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100481111,
     "title": "Door Kickers: Action Squad",
     "sortName": "door_kickers:_action_squad",
@@ -3207,6 +3237,22 @@
     "store": "Steam",
     "publisher": "Star Drifters",
     "genres": [
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100051611,
+    "title": "Drone Swarm",
+    "sortName": "drone_swarm",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/401760",
+    "store": "Steam",
+    "publisher": "Astragon Entertainment",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -4348,20 +4394,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100153511,
-    "title": "For Honor™",
-    "sortName": "for_honor_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/304390",
-    "store": "Steam",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100656511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
@@ -4374,6 +4406,20 @@
       "Adventure"
     ],
     "status": "AVAILABLE"
+  },
+  {
+    "id": 100153511,
+    "title": "For Honor™",
+    "sortName": "for_honor_1",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/304390",
+    "store": "Steam",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "status": "PATCHING"
   },
   {
     "id": 100011411,
@@ -4639,6 +4685,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101578811,
+    "title": "GONNER2",
+    "sortName": "gonner2_-_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1117670",
+    "store": "Steam",
+    "publisher": "Raw Fury Games",
+    "genres": [
+      "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100497511,
     "title": "Gothic® 3",
     "sortName": "gothic_3",
@@ -4723,7 +4782,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18316011,
+    "id": 100564911,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4739,7 +4798,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
+    "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4955,10 +5014,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 19111,
+    "id": 100370111,
     "title": "Half-Life® 2",
     "sortName": "half_life_2",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/220",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -4969,10 +5028,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100370111,
+    "id": 19111,
     "title": "Half-Life® 2",
     "sortName": "half_life_2",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/220",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -5442,6 +5501,23 @@
     "genres": [
       "Action",
       "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100759711,
+    "title": "Hydroneer",
+    "sortName": "hydroneer",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1106840",
+    "store": "Steam",
+    "publisher": "Foulball Hangover",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -6430,7 +6506,7 @@
       "Puzzle",
       "Strategy"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 100845811,
@@ -7469,6 +7545,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100142711,
+    "title": "Oxygen Not Included",
+    "sortName": "oxygen_not_included",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/457140",
+    "store": "Steam",
+    "publisher": "Klei Entertainment",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100821911,
     "title": "Paladins®",
     "sortName": "paladins_-_epic_games_store",
@@ -7647,7 +7737,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376011,
+    "id": 100039111,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
     "isFullyOptimized": true,
@@ -7662,7 +7752,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100039111,
+    "id": 100376011,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
     "isFullyOptimized": true,
@@ -9190,6 +9280,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100837211,
+    "title": "Silent Hunter® III",
+    "sortName": "silent_hunter_iii",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "UPLAY",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100368711,
     "title": "Silver Chains",
     "sortName": "silver_chains",
@@ -10402,6 +10505,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100639511,
+    "title": "Supreme Commander 2",
+    "sortName": "supreme_commander_2",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/40100",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100394311,
     "title": "Surgeon Simulator",
     "sortName": "surgeon_simulator",
@@ -10508,6 +10624,20 @@
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
+    "publisher": "Paradox Interactive AB",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101579711,
+    "title": "Surviving The Aftermath",
+    "sortName": "surviving_the_aftermath_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/684450",
+    "store": "Steam",
     "publisher": "Paradox Interactive AB",
     "genres": [
       "Simulation",
@@ -11946,37 +12076,22 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100351411,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 11285111,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100374711,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -11995,6 +12110,21 @@
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 11285111,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/230410",
     "store": "Steam",
     "publisher": "Digital Extremes",
@@ -12998,6 +13128,20 @@
       "Action",
       "Role Playing",
       "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100898911,
+    "title": "Zelter",
+    "sortName": "zelter",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1193340",
+    "store": "Steam",
+    "publisher": "Super.com",
+    "genres": [
+      "Action",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
