@@ -589,7 +589,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/583950",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Casual",
       "Strategy"
@@ -1302,7 +1302,7 @@
   {
     "id": 100230611,
     "title": "Battlefleet Gothic: Armada 2",
-    "sortName": "battlefleet_gothic:_armada_2",
+    "sortName": "battlefleet_gothic:_armada_ii",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/573100",
     "store": "Steam",
@@ -2063,7 +2063,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/10",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "First-Person Shooter",
       "Action"
@@ -2077,7 +2077,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/80",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "First-Person Shooter",
@@ -2092,7 +2092,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/240",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "First-Person Shooter"
@@ -2120,7 +2120,7 @@
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/730",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "First-Person Shooter",
@@ -3175,7 +3175,7 @@
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/570",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "Free To Play",
@@ -3191,7 +3191,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/1046930",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Free To Play",
       "Strategy"
@@ -4394,12 +4394,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100153511,
+    "id": 100656511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/304390",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -4408,12 +4408,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100656511,
+    "id": 100153511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/304390",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -4589,7 +4589,7 @@
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/4000",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Indie",
       "Simulation"
@@ -4782,7 +4782,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18316011,
+    "id": 100564911,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4798,7 +4798,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
+    "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
     "isFullyOptimized": false,
@@ -4992,7 +4992,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/70",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "First-Person Shooter"
@@ -5006,7 +5006,7 @@
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/70",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "First-Person Shooter"
@@ -5034,7 +5034,7 @@
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/220",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "First-Person Shooter"
@@ -5048,7 +5048,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/320",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "First-Person Shooter"
@@ -5062,7 +5062,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/420",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "First-Person Shooter"
@@ -6196,21 +6196,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/500",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
-    "genres": [
-      "Action",
-      "First-Person Shooter"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100037811,
-    "title": "Left 4 Dead 2",
-    "sortName": "left_4_dead_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/550",
-    "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "First-Person Shooter"
@@ -6224,6 +6210,20 @@
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
+    "publisher": "Valve Software",
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100037811,
+    "title": "Left 4 Dead 2",
+    "sortName": "left_4_dead_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/550",
+    "store": "Steam",
     "publisher": "Valve Software",
     "genres": [
       "Action",
@@ -7737,7 +7737,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100039111,
+    "id": 100376011,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
     "isFullyOptimized": true,
@@ -7752,7 +7752,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376011,
+    "id": 100039111,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
     "isFullyOptimized": true,
@@ -7972,7 +7972,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/400",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action"
     ],
@@ -7985,7 +7985,7 @@
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/620",
     "store": "Steam",
-    "publisher": "zz old Valve Corporation",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
       "Adventure",
@@ -10749,10 +10749,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18114511,
+    "id": 100376211,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -10763,10 +10763,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376211,
+    "id": 18114511,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/440",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -11023,7 +11023,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100352311,
+    "id": 100080711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -11037,7 +11037,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100080711,
+    "id": 100352311,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_1",
     "isFullyOptimized": true,
@@ -12092,7 +12092,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100351411,
+    "id": 100374711,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -12122,7 +12122,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100374711,
+    "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -12309,12 +12309,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100368511,
+    "id": 100234911,
     "title": "War Thunder",
     "sortName": "war_thunder_s",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
+    "steamUrl": "https://store.steampowered.com/app/236390",
+    "store": "Steam",
     "publisher": "DMM Games",
     "genres": [
       "Massively Multiplayer Online",
@@ -12325,12 +12325,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100234911,
+    "id": 100368511,
     "title": "War Thunder",
     "sortName": "war_thunder_s",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/236390",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "",
     "publisher": "DMM Games",
     "genres": [
       "Massively Multiplayer Online",
