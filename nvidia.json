@@ -1829,7 +1829,7 @@
   {
     "id": 100574411,
     "title": "Warface",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "isHighlightsSupported": false,
     "steamUrl": "",
     "publisher": "Mail.ru Group",
@@ -2106,18 +2106,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100572311,
-    "title": "SnowRunner",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Focus Home Interactive",
-    "genres": [
-      "Racing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100068511,
     "title": "The King of Fighters XIV",
     "isFullyOptimized": false,
@@ -2140,6 +2128,18 @@
       "Action",
       "First-Person Shooter",
       "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100572311,
+    "title": "SnowRunner",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Focus Home Interactive",
+    "genres": [
+      "Racing"
     ],
     "status": "AVAILABLE"
   },
@@ -2802,18 +2802,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100594711,
-    "title": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/410320",
-    "publisher": "D3 Publisher Inc.",
-    "genres": [
-      "Action"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100039711,
     "title": "SMITE®",
     "isFullyOptimized": true,
@@ -2824,6 +2812,18 @@
       "Action",
       "Free To Play",
       "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100594711,
+    "title": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/410320",
+    "publisher": "D3 Publisher Inc.",
+    "genres": [
+      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -2842,19 +2842,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100330511,
-    "title": "Assassin’s Creed® III Remastered",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/911400",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100062211,
     "title": "Mount & Blade",
     "isFullyOptimized": false,
@@ -2864,6 +2851,19 @@
     "genres": [
       "Indie",
       "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100330511,
+    "title": "Assassin’s Creed® III Remastered",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/911400",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action",
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -3017,15 +3017,17 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100016111,
-    "title": "Sanctum 2",
+    "id": 100803611,
+    "title": "Tunshi Kongming Legends 吞食孔明传",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/210770",
-    "publisher": "Coffee Stain Studios",
+    "steamUrl": "https://store.steampowered.com/app/929200",
+    "publisher": "FHYX",
     "genres": [
       "Action",
+      "Adventure",
       "Indie",
+      "Role Playing",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -3044,17 +3046,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100803611,
-    "title": "Tunshi Kongming Legends 吞食孔明传",
+    "id": 100016111,
+    "title": "Sanctum 2",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/929200",
-    "publisher": "FHYX",
+    "steamUrl": "https://store.steampowered.com/app/210770",
+    "publisher": "Coffee Stain Studios",
     "genres": [
       "Action",
-      "Adventure",
       "Indie",
-      "Role Playing",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -3181,6 +3181,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100294611,
+    "title": "Thronebreaker: The Witcher Tales",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/973760",
+    "publisher": "CD PROJEKT RED",
+    "genres": [
+      "Adventure",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100554711,
     "title": "Oriental Empires",
     "isFullyOptimized": false,
@@ -3191,19 +3204,6 @@
       "Indie",
       "Simulation",
       "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100294611,
-    "title": "Thronebreaker: The Witcher Tales",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/973760",
-    "publisher": "CD PROJEKT RED",
-    "genres": [
-      "Adventure",
-      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -3305,19 +3305,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100577211,
-    "title": "Fire Pro Wrestling World",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/564230",
-    "publisher": "Spike Chunsoft Co., Ltd.",
-    "genres": [
-      "Simulation",
-      "Sports"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100325311,
     "title": "Dawn of Man",
     "isFullyOptimized": false,
@@ -3328,6 +3315,19 @@
       "Indie",
       "Simulation",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100577211,
+    "title": "Fire Pro Wrestling World",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/564230",
+    "publisher": "Spike Chunsoft Co., Ltd.",
+    "genres": [
+      "Simulation",
+      "Sports"
     ],
     "status": "AVAILABLE"
   },
@@ -3805,20 +3805,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100061011,
-    "title": "Nex Machina",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/404540",
-    "publisher": "Housemarque Oy",
-    "genres": [
-      "Action",
-      "Arcade",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100009811,
     "title": "Rayman® Legends",
     "isFullyOptimized": false,
@@ -3830,6 +3816,20 @@
       "Adventure",
       "Family",
       "Platformer"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100061011,
+    "title": "Nex Machina",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/404540",
+    "publisher": "Housemarque Oy",
+    "genres": [
+      "Action",
+      "Arcade",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -5988,17 +5988,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100014511,
-    "title": "Black Mesa",
+    "id": 100856411,
+    "title": "Control Ultimate Edition",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/362890",
-    "publisher": "Crowbar Collective",
+    "steamUrl": "https://store.steampowered.com/app/870780",
+    "publisher": "505 Games",
     "genres": [
       "Action",
-      "Adventure",
-      "First-Person Shooter",
-      "Indie"
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -6016,15 +6014,17 @@
     "status": "MAINTENANCE"
   },
   {
-    "id": 100856411,
-    "title": "Control Ultimate Edition",
+    "id": 100014511,
+    "title": "Black Mesa",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/870780",
-    "publisher": "505 Games",
+    "steamUrl": "https://store.steampowered.com/app/362890",
+    "publisher": "Crowbar Collective",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "First-Person Shooter",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -6048,21 +6048,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100809311,
-    "title": "Unfortunate Spacemen",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/408900",
-    "publisher": "New Blood Interactive",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Indie",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100565411,
     "title": "Ratropolis",
     "isFullyOptimized": false,
@@ -6073,6 +6058,21 @@
       "Casual",
       "Indie",
       "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100809311,
+    "title": "Unfortunate Spacemen",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/408900",
+    "publisher": "New Blood Interactive",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Indie",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -6380,6 +6380,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100299111,
+    "title": "MUSYNX",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/952040",
+    "publisher": "Zodiac Interactive",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100047211,
     "title": "Dead Cells",
     "isFullyOptimized": true,
@@ -6390,19 +6403,6 @@
       "Action",
       "Indie",
       "Platformer"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100299111,
-    "title": "MUSYNX",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/952040",
-    "publisher": "Zodiac Interactive",
-    "genres": [
-      "Indie",
-      "Simulation"
     ],
     "status": "AVAILABLE"
   },
@@ -7278,19 +7278,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100018411,
-    "title": "Chivalry: Medieval Warfare",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/219640",
-    "publisher": "Torn Banner Studios",
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100270311,
     "title": "Amnesia: The Dark Descent",
     "isFullyOptimized": false,
@@ -7300,6 +7287,19 @@
     "genres": [
       "Action",
       "Adventure",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100018411,
+    "title": "Chivalry: Medieval Warfare",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/219640",
+    "publisher": "Torn Banner Studios",
+    "genres": [
+      "Action",
       "Indie"
     ],
     "status": "AVAILABLE"
@@ -8062,18 +8062,17 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100378711,
-    "title": "Trine 4: The Nightmare Prince",
+    "id": 100075611,
+    "title": "Semblance",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/690640",
-    "publisher": "Modus Games",
+    "steamUrl": "https://store.steampowered.com/app/700160",
+    "publisher": "Good Shepherd Entertainment",
     "genres": [
-      "Action",
-      "Adventure",
       "Indie",
-      "Platformer",
-      "Puzzle"
+      "Puzzle",
+      "Adventure",
+      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -8092,17 +8091,18 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100075611,
-    "title": "Semblance",
+    "id": 100378711,
+    "title": "Trine 4: The Nightmare Prince",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/700160",
-    "publisher": "Good Shepherd Entertainment",
+    "steamUrl": "https://store.steampowered.com/app/690640",
+    "publisher": "Modus Games",
     "genres": [
-      "Indie",
-      "Puzzle",
+      "Action",
       "Adventure",
-      "Action"
+      "Indie",
+      "Platformer",
+      "Puzzle"
     ],
     "status": "AVAILABLE"
   },
@@ -8161,6 +8161,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100012111,
+    "title": "Steep™",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Sports",
+      "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100063311,
     "title": "Spacelords",
     "isFullyOptimized": false,
@@ -8172,19 +8185,6 @@
       "Action",
       "Free To Play",
       "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100012111,
-    "title": "Steep™",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Sports",
-      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -10091,19 +10091,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100102911,
-    "title": "Planet Coaster®",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/493340",
-    "publisher": "Frontier Developments",
-    "genres": [
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100870411,
     "title": "Mortal Shell",
     "isFullyOptimized": false,
@@ -10114,6 +10101,19 @@
       "Action",
       "Indie",
       "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100102911,
+    "title": "Planet Coaster®",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/493340",
+    "publisher": "Frontier Developments",
+    "genres": [
+      "Simulation",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -10244,6 +10244,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100578011,
+    "title": "Fae Tactics",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/995980",
+    "publisher": "Humble Bundle",
+    "genres": [
+      "Indie",
+      "Role Playing",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100057811,
     "title": "Space Engineers",
     "isFullyOptimized": true,
@@ -10254,20 +10268,6 @@
       "Action",
       "Indie",
       "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100578011,
-    "title": "Fae Tactics",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/995980",
-    "publisher": "Humble Bundle",
-    "genres": [
-      "Indie",
-      "Role Playing",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -10942,19 +10942,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100139611,
-    "title": "ATOMEGA™",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/619880",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100450911,
     "title": "Hotshot Racing",
     "isFullyOptimized": false,
@@ -10966,6 +10953,19 @@
       "Family",
       "Indie",
       "Racing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100139611,
+    "title": "ATOMEGA™",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/619880",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -11096,20 +11096,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100319811,
-    "title": "Foundation",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/690830",
-    "publisher": "Polymorph Games",
-    "genres": [
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100846011,
     "title": "Killing Floor 2",
     "isFullyOptimized": true,
@@ -11120,6 +11106,20 @@
       "Action",
       "First-Person Shooter",
       "Massively Multiplayer Online"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100319811,
+    "title": "Foundation",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/690830",
+    "publisher": "Polymorph Games",
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
