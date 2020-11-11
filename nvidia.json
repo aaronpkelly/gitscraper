@@ -869,6 +869,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100676311,
+    "title": "Assassin's Creed: Valhalla",
+    "sortName": "assassins_creed_12",
+    "isFullyOptimized": true,
+    "steamUrl": "",
+    "store": "UPLAY",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100836911,
     "title": "Assassin's Creed Freedom Cry",
     "sortName": "assassins_creed_4a_freedom_cry_uplay",
@@ -2636,7 +2650,7 @@
       "Action",
       "Indie"
     ],
-    "status": "MAINTENANCE"
+    "status": "AVAILABLE"
   },
   {
     "id": 100271811,
@@ -2729,7 +2743,7 @@
       "Massively Multiplayer Online",
       "Role Playing"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100369311,
@@ -4214,12 +4228,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100656511,
+    "id": 100153511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/304390",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -4228,12 +4242,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100153511,
+    "id": 100656511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/304390",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -4959,12 +4973,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100936611,
+    "id": 18102411,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/227940",
+    "store": "Steam",
     "publisher": "RETO MOTO",
     "genres": [
       "Action",
@@ -4975,12 +4989,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18102411,
+    "id": 100936611,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/227940",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "RETO MOTO",
     "genres": [
       "Action",
@@ -6737,6 +6751,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100062211,
+    "title": "Mount & Blade",
+    "sortName": "mount_and_blade_1",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/22100",
+    "store": "Steam",
+    "publisher": "TaleWorlds",
+    "genres": [
+      "Indie",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100186711,
     "title": "Mount & Blade II: Bannerlord",
     "sortName": "mount_and_blade_1",
@@ -6749,20 +6777,6 @@
       "Action",
       "Strategy",
       "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100062211,
-    "title": "Mount & Blade",
-    "sortName": "mount_and_blade_1",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/22100",
-    "store": "Steam",
-    "publisher": "TaleWorlds",
-    "genres": [
-      "Indie",
-      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -8461,7 +8475,7 @@
       "Simulation",
       "Strategy"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 100240011,
@@ -11776,7 +11790,7 @@
     "id": 100361011,
     "title": "Watch Dogs®: Legion",
     "sortName": "watch_dogs_3",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "",
     "store": "UPLAY",
     "publisher": "Ubisoft",
@@ -11790,7 +11804,7 @@
     "id": 100360911,
     "title": "Watch Dogs®: Legion",
     "sortName": "watch_dogs_3_egs",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "",
     "store": "Epic",
     "publisher": "Ubisoft",
