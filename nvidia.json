@@ -1283,7 +1283,7 @@
   {
     "id": 100392811,
     "title": "Bee simulator",
-    "sortName": "bee_simulator_-_steam",
+    "sortName": "bee_simulator_steam",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/914750",
     "store": "Steam",
@@ -1568,7 +1568,7 @@
   {
     "id": 101628211,
     "title": "Bridge Constructor: The Walking Dead",
-    "sortName": "bridge_constructor:_the_walking_dead_-_epic_games_store",
+    "sortName": "bridge_constructor_the_walking_dead_egs",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
@@ -1583,7 +1583,7 @@
   {
     "id": 101625011,
     "title": "Bridge Constructor: The Walking Dead",
-    "sortName": "bridge_constructor:_the_walking_dead_-_steam",
+    "sortName": "bridge_constructor_the_walking_dead_steam",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/1336120",
     "store": "Steam",
@@ -3829,12 +3829,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100245011,
+    "id": 100817811,
     "title": "Farming Simulator 19",
     "sortName": "farming_simulator_2019",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/787860",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Focus Home Interactive",
     "genres": [
       "Casual",
@@ -3844,12 +3844,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817811,
+    "id": 100245011,
     "title": "Farming Simulator 19",
     "sortName": "farming_simulator_2019",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/787860",
+    "store": "Steam",
     "publisher": "Focus Home Interactive",
     "genres": [
       "Casual",
@@ -6381,7 +6381,7 @@
       "Puzzle",
       "Strategy"
     ],
-    "status": "PATCHING"
+    "status": "AVAILABLE"
   },
   {
     "id": 100845811,
@@ -6622,12 +6622,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100658411,
+    "id": 100658511,
     "title": "Might & Magic® Heroes® VII – Trial by Fire",
     "sortName": "might_and_magic_heroes_7_trials_by_fire",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "UPLAY",
+    "steamUrl": "https://store.steampowered.com/app/445310",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Role Playing",
@@ -6636,12 +6636,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100658511,
+    "id": 100658411,
     "title": "Might & Magic® Heroes® VII – Trial by Fire",
     "sortName": "might_and_magic_heroes_7_trials_by_fire",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/445310",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "UPLAY",
     "publisher": "Ubisoft",
     "genres": [
       "Role Playing",
@@ -6841,6 +6841,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100062211,
+    "title": "Mount & Blade",
+    "sortName": "mount_and_blade_1",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/22100",
+    "store": "Steam",
+    "publisher": "TaleWorlds",
+    "genres": [
+      "Indie",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100186711,
     "title": "Mount & Blade II: Bannerlord",
     "sortName": "mount_and_blade_1",
@@ -6853,20 +6867,6 @@
       "Action",
       "Strategy",
       "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100062211,
-    "title": "Mount & Blade",
-    "sortName": "mount_and_blade_1",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/22100",
-    "store": "Steam",
-    "publisher": "TaleWorlds",
-    "genres": [
-      "Indie",
-      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -6935,7 +6935,7 @@
   {
     "id": 100137911,
     "title": "MudRunner",
-    "sortName": "mudrunner",
+    "sortName": "mudrunner_-_steam",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/675010",
     "store": "Steam",
@@ -7782,6 +7782,23 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100860811,
+    "title": "Poker Club",
+    "sortName": "poker_club",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1174460",
+    "store": "Steam",
+    "publisher": "Ripstone",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100607411,
     "title": "Population Zero",
     "sortName": "population_zero",
@@ -8570,7 +8587,7 @@
   {
     "id": 101574911,
     "title": "RuneScape®",
-    "sortName": "runescape_-_steam",
+    "sortName": "runescape_steam",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/1343400",
     "store": "Steam",
@@ -11038,12 +11055,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100818311,
+    "id": 100817511,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Epic",
+    "store": "UPLAY",
     "publisher": "Ubisoft",
     "genres": [
       "Arcade",
@@ -11053,12 +11070,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817511,
+    "id": 100818311,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Arcade",
@@ -11200,7 +11217,7 @@
   {
     "id": 100819711,
     "title": "Trials® Rising",
-    "sortName": "trials_rising_-_epic_games_store",
+    "sortName": "trials_rising_egs",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
@@ -11689,7 +11706,7 @@
       "Free To Play",
       "Multiplayer Online Battle Arena"
     ],
-    "status": "PATCHING"
+    "status": "AVAILABLE"
   },
   {
     "id": 18106311,
