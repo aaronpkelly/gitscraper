@@ -534,10 +534,26 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100565011,
+    "id": 100369611,
     "title": "Arma 3",
     "sortName": "arma_3",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100375811,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/107410",
     "store": "Steam",
     "publisher": "Bohemia Interactive",
@@ -566,26 +582,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100375811,
+    "id": 100565011,
     "title": "Arma 3",
     "sortName": "arma_3",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100369611,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/107410",
     "store": "Steam",
     "publisher": "Bohemia Interactive",
@@ -1362,17 +1362,6 @@
       "Obične",
       "Besplatno za igranje"
     ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 101637911,
-    "title": "A Juggler's Tale Demo",
-    "sortName": "a_juggler's_tale_demo",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/1281550",
-    "store": "Steam",
-    "publisher": "Mixtvision",
-    "genres": [],
     "status": "AVAILABLE"
   },
   {
@@ -4749,7 +4738,7 @@
       "Avanturističke",
       "Velike internetske igre za više igrača"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100366511,
@@ -4888,12 +4877,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100153511,
+    "id": 100656511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/304390",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -4902,12 +4891,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100656511,
+    "id": 100153511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/304390",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5289,7 +5278,7 @@
       "Avanturističke",
       "Igre s ulogama"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100251811,
@@ -5540,20 +5529,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100374911,
-    "title": "Half-Life®",
-    "sortName": "half_life_1",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/70",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Action",
-      "First-Person Shooter"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 18111211,
     "title": "Half-Life®",
     "sortName": "half_life_1",
@@ -5564,6 +5539,20 @@
     "genres": [
       "Akcijske",
       "Pucanje u prvom licu"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100374911,
+    "title": "Half-Life®",
+    "sortName": "half_life_1",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/70",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Action",
+      "First-Person Shooter"
     ],
     "status": "AVAILABLE"
   },
@@ -5733,12 +5722,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100936611,
+    "id": 18102411,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/227940",
+    "store": "Steam",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -5749,12 +5738,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18102411,
+    "id": 100936611,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/227940",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -6454,20 +6443,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100222711,
-    "title": "Just Cause 4 Reloaded",
-    "sortName": "just_cause_4",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/517630",
-    "store": "Steam",
-    "publisher": "Square Enix",
-    "genres": [
-      "Akcijske",
-      "Avanturističke"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100857011,
     "title": "Just Cause 4 Reloaded",
     "sortName": "just_cause_4",
@@ -6478,6 +6453,20 @@
     "genres": [
       "Action",
       "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100222711,
+    "title": "Just Cause 4 Reloaded",
+    "sortName": "just_cause_4",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/517630",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Akcijske",
+      "Avanturističke"
     ],
     "status": "AVAILABLE"
   },
@@ -7379,12 +7368,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100658511,
+    "id": 100658411,
     "title": "Might & Magic® Heroes® VII – Trial by Fire",
     "sortName": "might_and_magic_heroes_7_trials_by_fire",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/445310",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "UPLAY",
     "publisher": "Ubisoft",
     "genres": [
       "Igre s ulogama",
@@ -7393,12 +7382,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100658411,
+    "id": 100658511,
     "title": "Might & Magic® Heroes® VII – Trial by Fire",
     "sortName": "might_and_magic_heroes_7_trials_by_fire",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "UPLAY",
+    "steamUrl": "https://store.steampowered.com/app/445310",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Igre s ulogama",
@@ -8338,12 +8327,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100366111,
+    "id": 17943611,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
+    "steamUrl": "https://store.steampowered.com/app/238960",
+    "store": "Steam",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -8354,12 +8343,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 17943611,
+    "id": 100366111,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/238960",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -8414,21 +8403,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376011,
-    "title": "PAYDAY 2",
-    "sortName": "payday_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/218620",
-    "store": "Steam",
-    "publisher": "Starbreeze Studios",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100039111,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
@@ -8440,6 +8414,21 @@
       "Akcijske",
       "Pucanje u prvom licu",
       "Igre s ulogama"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100376011,
+    "title": "PAYDAY 2",
+    "sortName": "payday_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/218620",
+    "store": "Steam",
+    "publisher": "Starbreeze Studios",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -11821,7 +11810,7 @@
   },
   {
     "id": 100294611,
-    "title": "Thronebreaker: The Witcher Tales",
+    "title": "Thronebreaker: The Witcher® Tales",
     "sortName": "thronebreaker:_the_witcher_tales_-_steam",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/973760",
@@ -11849,20 +11838,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100080711,
-    "title": "Tomb Raider",
-    "sortName": "tomb_raider_2013",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/203160",
-    "store": "Steam",
-    "publisher": "Square Enix",
-    "genres": [
-      "Akcijske",
-      "Avanturističke"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100352311,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_2013",
@@ -11873,6 +11848,20 @@
     "genres": [
       "Action",
       "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100080711,
+    "title": "Tomb Raider",
+    "sortName": "tomb_raider_2013",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/203160",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Akcijske",
+      "Avanturističke"
     ],
     "status": "AVAILABLE"
   },
@@ -12899,7 +12888,7 @@
       "Free To Play",
       "Multiplayer Online Battle Arena"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 100374711,
@@ -13415,7 +13404,7 @@
   },
   {
     "id": 100431911,
-    "title": "The Witcher: Enhanced Edition Director's Cut",
+    "title": "The Witcher®: Enhanced Edition Director's Cut",
     "sortName": "witcher_1",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/20900",
