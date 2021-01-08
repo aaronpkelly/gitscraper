@@ -320,7 +320,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100053811,
+    "id": 100224011,
     "title": "Anno 2205™",
     "sortName": "anno_2205",
     "isFullyOptimized": false,
@@ -334,7 +334,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100224011,
+    "id": 100053811,
     "title": "Anno 2205™",
     "sortName": "anno_2205",
     "isFullyOptimized": false,
@@ -534,26 +534,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100042611,
+    "id": 100565011,
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu",
-      "Simulacijske",
-      "Strateške"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100369611,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/107410",
     "store": "Steam",
     "publisher": "Bohemia Interactive",
@@ -566,10 +550,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100565011,
+    "id": 100369611,
     "title": "Arma 3",
     "sortName": "arma_3",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/107410",
     "store": "Steam",
     "publisher": "Bohemia Interactive",
@@ -594,6 +578,22 @@
       "First-Person Shooter",
       "Simulation",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100042611,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu",
+      "Simulacijske",
+      "Strateške"
     ],
     "status": "AVAILABLE"
   },
@@ -5308,17 +5308,14 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
-    "title": "Grim Dawn",
-    "sortName": "grim_dawn",
+    "id": 100654211,
+    "title": "Griftlands",
+    "sortName": "griftlands",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/219990",
+    "steamUrl": "https://store.steampowered.com/app/601840",
     "store": "Steam",
-    "publisher": "Crate Entertainment",
+    "publisher": "Klei Entertainment",
     "genres": [
-      "Role Playing",
-      "Action",
-      "Adventure",
       "Indie"
     ],
     "status": "AVAILABLE"
@@ -5335,6 +5332,22 @@
       "Igre s ulogama",
       "Akcijske",
       "Avanturističke",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100564911,
+    "title": "Grim Dawn",
+    "sortName": "grim_dawn",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/219990",
+    "store": "Steam",
+    "publisher": "Crate Entertainment",
+    "genres": [
+      "Role Playing",
+      "Action",
+      "Adventure",
       "Indie"
     ],
     "status": "AVAILABLE"
@@ -5454,6 +5467,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100588111,
+    "title": "GUILTY GEAR XX ACCENT CORE PLUS R",
+    "sortName": "guilty_gear_xx_accent_core_plus_r",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/348550",
+    "store": "Steam",
+    "publisher": "Arc System Works Co., Ltd.",
+    "genres": [
+      "Akcijske"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100576011,
     "title": "Gujian3",
     "sortName": "gujian_3",
@@ -5528,20 +5554,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18111211,
-    "title": "Half-Life®",
-    "sortName": "half_life_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/70",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100374911,
     "title": "Half-Life®",
     "sortName": "half_life_1",
@@ -5552,6 +5564,20 @@
     "genres": [
       "Action",
       "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18111211,
+    "title": "Half-Life®",
+    "sortName": "half_life_1",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/70",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu"
     ],
     "status": "AVAILABLE"
   },
@@ -5721,12 +5747,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18102411,
+    "id": 100936611,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/227940",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -5737,12 +5763,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100936611,
+    "id": 18102411,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/227940",
+    "store": "Steam",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -7453,6 +7479,23 @@
       "Utrke",
       "Simulacijske",
       "Sportske"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100839311,
+    "title": "Monster Sanctuary",
+    "sortName": "monster_sanctuary",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/814370",
+    "store": "Steam",
+    "publisher": "Team17 Digital Limited",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Indie",
+      "Igre s ulogama",
+      "Strateške"
     ],
     "status": "AVAILABLE"
   },
@@ -12191,6 +12234,23 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101569611,
+    "title": "Tower Unite",
+    "sortName": "tower_unite",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/394690",
+    "store": "Steam",
+    "publisher": "PixelTail Games LLC",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Obične",
+      "Indie",
+      "Simulacijske"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100817511,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
@@ -12436,6 +12496,23 @@
       "Indie",
       "Igre na platformi",
       "Slagalice"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101652911,
+    "title": "Trine 4: The Nightmare Prince",
+    "sortName": "trine_4",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Modus Games",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Platformer",
+      "Puzzle"
     ],
     "status": "AVAILABLE"
   },
@@ -12891,7 +12968,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100374711,
+    "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -12921,7 +12998,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100351411,
+    "id": 100374711,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
