@@ -547,42 +547,26 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100369611,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100375811,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100565011,
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100369611,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/107410",
     "store": "Steam",
     "publisher": "Bohemia Interactive",
@@ -607,6 +591,22 @@
       "Pucanje u prvom licu",
       "Simulacijske",
       "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100375811,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -3505,21 +3505,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376611,
-    "title": "Divinity: Original Sin 2 - Definitive Edition",
-    "sortName": "divinity_original_sin_2",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/435150",
-    "store": "Steam",
-    "publisher": "Larian Studios",
-    "genres": [
-      "Adventure",
-      "Role Playing",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100075911,
     "title": "Divinity: Original Sin 2 - Definitive Edition",
     "sortName": "divinity_original_sin_2",
@@ -3531,6 +3516,21 @@
       "Avanturističke",
       "Igre s ulogama",
       "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100376611,
+    "title": "Divinity: Original Sin 2 - Definitive Edition",
+    "sortName": "divinity_original_sin_2",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/435150",
+    "store": "Steam",
+    "publisher": "Larian Studios",
+    "genres": [
+      "Adventure",
+      "Role Playing",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -5639,20 +5639,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18111211,
-    "title": "Half-Life®",
-    "sortName": "half_life_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/70",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100374911,
     "title": "Half-Life®",
     "sortName": "half_life_1",
@@ -5667,11 +5653,11 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 19111,
-    "title": "Half-Life® 2",
-    "sortName": "half_life_2",
+    "id": 18111211,
+    "title": "Half-Life®",
+    "sortName": "half_life_1",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/220",
+    "steamUrl": "https://store.steampowered.com/app/70",
     "store": "Steam",
     "publisher": "Valve Software",
     "genres": [
@@ -5691,6 +5677,20 @@
     "genres": [
       "Action",
       "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 19111,
+    "title": "Half-Life® 2",
+    "sortName": "half_life_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/220",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu"
     ],
     "status": "AVAILABLE"
   },
@@ -5832,12 +5832,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18102411,
+    "id": 100936611,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/227940",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -5848,12 +5848,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100936611,
+    "id": 18102411,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/227940",
+    "store": "Steam",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -6611,20 +6611,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100222711,
-    "title": "Just Cause 4 Reloaded",
-    "sortName": "just_cause_4",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/517630",
-    "store": "Steam",
-    "publisher": "Square Enix",
-    "genres": [
-      "Akcijske",
-      "Avanturističke"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100857011,
     "title": "Just Cause 4 Reloaded",
     "sortName": "just_cause_4",
@@ -6635,6 +6621,20 @@
     "genres": [
       "Action",
       "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100222711,
+    "title": "Just Cause 4 Reloaded",
+    "sortName": "just_cause_4",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/517630",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Akcijske",
+      "Avanturističke"
     ],
     "status": "AVAILABLE"
   },
@@ -8601,12 +8601,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 17943611,
+    "id": 100366111,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/238960",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -8617,12 +8617,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100366111,
+    "id": 17943611,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
+    "steamUrl": "https://store.steampowered.com/app/238960",
+    "store": "Steam",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -8677,21 +8677,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100039111,
-    "title": "PAYDAY 2",
-    "sortName": "payday_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/218620",
-    "store": "Steam",
-    "publisher": "Starbreeze Studios",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu",
-      "Igre s ulogama"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100376011,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
@@ -8703,6 +8688,21 @@
       "Action",
       "First-Person Shooter",
       "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100039111,
+    "title": "PAYDAY 2",
+    "sortName": "payday_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/218620",
+    "store": "Steam",
+    "publisher": "Starbreeze Studios",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu",
+      "Igre s ulogama"
     ],
     "status": "AVAILABLE"
   },
@@ -12529,12 +12529,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817511,
+    "id": 100818311,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -12544,12 +12544,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100818311,
+    "id": 100817511,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Epic",
+    "store": "UPLAY",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -13276,40 +13276,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100374711,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100341511,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/230410",
     "store": "Steam",
     "publisher": "Digital Extremes",
@@ -13332,6 +13302,36 @@
       "Akcijske",
       "Besplatno za igranje",
       "Internetske igre u areni za više igrača"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100341511,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100374711,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
     ],
     "status": "AVAILABLE"
   },
@@ -13844,7 +13844,7 @@
   },
   {
     "id": 100817611,
-    "title": "The Witcher® 3: Wild Hunt",
+    "title": "The Witcher® 3: Wild Hunt - Game of the Year",
     "sortName": "witcher_3_wild_hunt_egs_directors_cut",
     "isFullyOptimized": false,
     "steamUrl": "",
