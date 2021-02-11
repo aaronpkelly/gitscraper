@@ -178,42 +178,27 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100017611,
-    "title": "Amnesia: A Machine for Pigs",
-    "sortName": "amnesia:_a_machine_for_pigs_-_steam",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/239200",
-    "store": "Steam",
-    "publisher": "Frictional Games",
-    "genres": [
-      "Akcijske",
-      "Avanturističke",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100270311,
-    "title": "Amnesia: The Dark Descent",
-    "sortName": "amnesia:_the_dark_descent",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/57300",
-    "store": "Steam",
-    "publisher": "Frictional Games",
-    "genres": [
-      "Akcijske",
-      "Avanturističke",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 101569911,
     "title": "Amnesia: A Machine for Pigs",
     "sortName": "amnesia_a_machine_for_pigs_egs",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
+    "publisher": "Frictional Games",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100017611,
+    "title": "Amnesia: A Machine for Pigs",
+    "sortName": "amnesia_a_machine_for_pigs_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/239200",
+    "store": "Steam",
     "publisher": "Frictional Games",
     "genres": [
       "Akcijske",
@@ -245,6 +230,21 @@
     "store": "Steam",
     "publisher": "Frictional Games",
     "genres": [
+      "Avanturističke",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100270311,
+    "title": "Amnesia: The Dark Descent",
+    "sortName": "amnesia_the_dark_descent_gfn_pc",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/57300",
+    "store": "Steam",
+    "publisher": "Frictional Games",
+    "genres": [
+      "Akcijske",
       "Avanturističke",
       "Indie"
     ],
@@ -547,7 +547,39 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100565011,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100375811,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100369611,
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": false,
@@ -575,38 +607,6 @@
       "Pucanje u prvom licu",
       "Simulacijske",
       "Strateške"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100369611,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100565011,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -3616,7 +3616,7 @@
   {
     "id": 100153411,
     "title": "Tom Clancy's The Division™",
-    "sortName": "division_1",
+    "sortName": "division_1_steam",
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/365590",
     "store": "Steam",
@@ -3630,9 +3630,41 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100023411,
+    "title": "Tom Clancy's The Division™",
+    "sortName": "division_1_uplay",
+    "isFullyOptimized": true,
+    "steamUrl": "",
+    "store": "UPLAY",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Igre s ulogama",
+      "Velike internetske igre za više igrača"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100309911,
+    "title": "Tom Clancy’s The Division® 2",
+    "sortName": "division_2_egs",
+    "isFullyOptimized": true,
+    "steamUrl": "",
+    "store": "Epic",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Igre s ulogama",
+      "Velike internetske igre za više igrača"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100247411,
     "title": "Tom Clancy’s The Division® 2",
-    "sortName": "division_2",
+    "sortName": "division_2_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
     "store": "UPLAY",
@@ -4538,19 +4570,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100184611,
-    "title": "Pure Farming 2018",
-    "sortName": "farming_simulator_2018",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/534370",
-    "store": "Steam",
-    "publisher": "Techland sp. z o.o.",
-    "genres": [
-      "Simulacijske"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100245011,
     "title": "Farming Simulator 19",
     "sortName": "farming_simulator_2019",
@@ -4652,21 +4671,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100166711,
-    "title": "Far Cry® 3",
-    "sortName": "far_cry_3",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/220240",
-    "store": "Steam",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Akcijske",
-      "Avanturističke",
-      "Pucanje u prvom licu"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100819411,
     "title": "Far Cry® 3: Blood Dragon",
     "sortName": "far_cry_3a_epic_games",
@@ -4710,12 +4714,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 3134111,
+    "id": 100166711,
     "title": "Far Cry® 3",
-    "sortName": "far_cry_3_uplay",
-    "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "UPLAY",
+    "sortName": "far_cry_3_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/220240",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -4725,12 +4729,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100162811,
-    "title": "Far Cry® 4",
-    "sortName": "far_cry_4",
+    "id": 3134111,
+    "title": "Far Cry® 3",
+    "sortName": "far_cry_3_uplay",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/298110",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "UPLAY",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -4800,9 +4804,24 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100162811,
+    "title": "Far Cry® 4",
+    "sortName": "far_cry_4_steam",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/298110",
+    "store": "Steam",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Pucanje u prvom licu"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 17939611,
     "title": "Far Cry® 4",
-    "sortName": "far_cry_4_uplay_north_america_emeai",
+    "sortName": "far_cry_4_uplay_namerica",
     "isFullyOptimized": true,
     "steamUrl": "",
     "store": "UPLAY",
@@ -5055,12 +5074,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100656511,
+    "id": 100153511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/304390",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5069,12 +5088,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100153511,
+    "id": 100656511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/304390",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5952,12 +5971,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18102411,
+    "id": 100936611,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/227940",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -5968,12 +5987,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100936611,
+    "id": 18102411,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/227940",
+    "store": "Steam",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -7182,20 +7201,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100037811,
-    "title": "Left 4 Dead 2",
-    "sortName": "left_4_dead_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/550",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100375911,
     "title": "Left 4 Dead 2",
     "sortName": "left_4_dead_2",
@@ -7206,6 +7211,20 @@
     "genres": [
       "Action",
       "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100037811,
+    "title": "Left 4 Dead 2",
+    "sortName": "left_4_dead_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/550",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu"
     ],
     "status": "AVAILABLE"
   },
@@ -8088,22 +8107,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100186711,
-    "title": "Mount & Blade II: Bannerlord",
-    "sortName": "mount_and_blade_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/261550",
-    "store": "Steam",
-    "publisher": "TaleWorlds",
-    "genres": [
-      "Igre s ulogama",
-      "Akcijske",
-      "Strateške",
-      "Simulacijske"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100062211,
     "title": "Mount & Blade",
     "sortName": "mount_and_blade_1",
@@ -8154,6 +8157,22 @@
     "steamUrl": "",
     "store": "Epic",
     "publisher": "TaleWorlds Entertainment",
+    "genres": [
+      "Igre s ulogama",
+      "Akcijske",
+      "Strateške",
+      "Simulacijske"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100186711,
+    "title": "Mount & Blade II: Bannerlord",
+    "sortName": "mount_and_blade_2_steam",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/261550",
+    "store": "Steam",
+    "publisher": "TaleWorlds",
     "genres": [
       "Igre s ulogama",
       "Akcijske",
@@ -8995,21 +9014,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100039111,
-    "title": "PAYDAY 2",
-    "sortName": "payday_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/218620",
-    "store": "Steam",
-    "publisher": "Starbreeze Studios",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu",
-      "Igre s ulogama"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100376011,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
@@ -9021,6 +9025,21 @@
       "Action",
       "First-Person Shooter",
       "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100039111,
+    "title": "PAYDAY 2",
+    "sortName": "payday_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/218620",
+    "store": "Steam",
+    "publisher": "Starbreeze Studios",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu",
+      "Igre s ulogama"
     ],
     "status": "AVAILABLE"
   },
@@ -9523,6 +9542,19 @@
       "Avanturističke",
       "Indie",
       "Igre na platformi"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100184611,
+    "title": "Pure Farming 2018",
+    "sortName": "pure_farming_2018",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/534370",
+    "store": "Steam",
+    "publisher": "Techland sp. z o.o.",
+    "genres": [
+      "Simulacijske"
     ],
     "status": "AVAILABLE"
   },
@@ -10196,7 +10228,7 @@
       "Simulacijske",
       "Strateške"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 101574911,
@@ -12751,38 +12783,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100023411,
-    "title": "Tom Clancy's The Division™",
-    "sortName": "tom_clancys_the_division_1_uplay",
-    "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "UPLAY",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Akcijske",
-      "Avanturističke",
-      "Igre s ulogama",
-      "Velike internetske igre za više igrača"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100309911,
-    "title": "Tom Clancy’s The Division® 2",
-    "sortName": "tom_clancys_the_division_2_steam",
-    "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "Epic",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Akcijske",
-      "Avanturističke",
-      "Igre s ulogama",
-      "Velike internetske igre za više igrača"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100852711,
     "title": "Torchlight II",
     "sortName": "torchlight_2_egs",
@@ -13140,23 +13140,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101652911,
-    "title": "Trine 4: The Nightmare Prince",
-    "sortName": "trine_4",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Modus Games",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "Platformer",
-      "Puzzle"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100378711,
     "title": "Trine 4: The Nightmare Prince",
     "sortName": "trine_4",
@@ -13170,6 +13153,23 @@
       "Indie",
       "Igre na platformi",
       "Slagalice"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101652911,
+    "title": "Trine 4: The Nightmare Prince",
+    "sortName": "trine_4",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Modus Games",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Platformer",
+      "Puzzle"
     ],
     "status": "AVAILABLE"
   },
@@ -13686,7 +13686,22 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100374711,
+    "id": 100341511,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -13716,22 +13731,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100341511,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100351411,
+    "id": 100374711,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -13833,19 +13833,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100541311,
-    "title": "Warhammer 40,000: Gladius - Relics of War",
-    "sortName": "warhammer_40,000:_gladius_-_relics_of_war_-_steam",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/489630",
-    "store": "Steam",
-    "publisher": "Slitherine Ltd.",
-    "genres": [
-      "Strateške"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100271311,
     "title": "Warhammer 40,000: Mechanicus",
     "sortName": "warhammer_40,000:_mechanicus",
@@ -13865,6 +13852,19 @@
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
+    "publisher": "Slitherine Ltd.",
+    "genres": [
+      "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100541311,
+    "title": "Warhammer 40,000: Gladius - Relics of War",
+    "sortName": "warhammer_40000_gladius_row_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/489630",
+    "store": "Steam",
     "publisher": "Slitherine Ltd.",
     "genres": [
       "Strateške"
@@ -14339,7 +14339,7 @@
   {
     "id": 100357511,
     "title": "World of Tanks",
-    "sortName": "world_of_tanks_-_asia",
+    "sortName": "world_of_tanks_-_wargaming_-_asia",
     "isFullyOptimized": true,
     "steamUrl": "",
     "store": "",
@@ -14354,7 +14354,7 @@
   {
     "id": 100133011,
     "title": "World of Tanks",
-    "sortName": "world_of_tanks_-_europe",
+    "sortName": "world_of_tanks_-_wargaming_-_europe",
     "isFullyOptimized": true,
     "steamUrl": "",
     "store": "",
@@ -14369,7 +14369,7 @@
   {
     "id": 100368911,
     "title": "World of Tanks",
-    "sortName": "world_of_tanks_-_russia",
+    "sortName": "world_of_tanks_-_wargaming_-_russia",
     "isFullyOptimized": true,
     "steamUrl": "",
     "store": "",
@@ -14384,7 +14384,7 @@
   {
     "id": 17947111,
     "title": "World of Tanks",
-    "sortName": "world_of_tanks_-__north_america",
+    "sortName": "world_of_tanks_-__wargaming_-_north_america",
     "isFullyOptimized": true,
     "steamUrl": "",
     "store": "",
@@ -14478,7 +14478,7 @@
   {
     "id": 100187611,
     "title": "World of Warships",
-    "sortName": "world_of_warships_-_wargaming_europe",
+    "sortName": "world_of_warships_-_wargaming_-_europe",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
@@ -14494,7 +14494,7 @@
   {
     "id": 100042411,
     "title": "World of Warships",
-    "sortName": "world_of_warships_-_wargaming_north_america",
+    "sortName": "world_of_warships_-_wargaming_-_north_america",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
