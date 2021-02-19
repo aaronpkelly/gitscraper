@@ -30,6 +30,24 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101751711,
+    "title": "Absolute Drift: Zen Edition",
+    "sortName": "absolute_drift_egs",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
+    "publisher": "Funselektor Labs Inc.",
+    "genres": [
+      "Akcijske",
+      "Obične",
+      "Indie",
+      "Utrke",
+      "Simulacijske",
+      "Sportske"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100129011,
     "title": "Absolver",
     "sortName": "absolver",
@@ -578,22 +596,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100375811,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100042611,
     "title": "Arma 3",
     "sortName": "arma_3",
@@ -614,6 +616,22 @@
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100375811,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/107410",
     "store": "Steam",
     "publisher": "Bohemia Interactive",
@@ -686,6 +704,20 @@
     "genres": [
       "Obične",
       "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101570411,
+    "title": "Assassin's Creed™: Director's Cut Edition",
+    "sortName": "assassins_creed_01",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Akcijske",
+      "Avanturističke"
     ],
     "status": "AVAILABLE"
   },
@@ -2959,6 +2991,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100458211,
+    "title": "Darkest Hour: A Hearts of Iron Game",
+    "sortName": "darkest_hour_a_hearts_of_iron_game",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/73170",
+    "store": "Steam",
+    "publisher": "Paradox Interactive AB",
+    "genres": [
+      "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100571111,
     "title": "Darksburg",
     "sortName": "darksburg",
@@ -3108,6 +3153,21 @@
       "Velike internetske igre za više igrača",
       "Igre s ulogama",
       "Simulacijske"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100785011,
+    "title": "Day of Infamy",
+    "sortName": "day_of_infamy",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/447820",
+    "store": "Steam",
+    "publisher": "New World Interactive",
+    "genres": [
+      "Akcijske",
+      "Indie",
+      "Strateške"
     ],
     "status": "AVAILABLE"
   },
@@ -4034,6 +4094,21 @@
     "genres": [
       "Akcijske",
       "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100928411,
+    "title": "Dusk Diver",
+    "sortName": "dusk_diver",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/911220",
+    "store": "Steam",
+    "publisher": "Wanin International",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Igre s ulogama"
     ],
     "status": "AVAILABLE"
   },
@@ -5518,6 +5593,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100677611,
+    "title": "Going Under",
+    "sortName": "going_under",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1154810",
+    "store": "Steam",
+    "publisher": "Team17 Digital Limited",
+    "genres": [
+      "Akcijske",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100152111,
     "title": "Golf With Your Friends",
     "sortName": "golf_with_your_friends",
@@ -5644,22 +5733,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18316011,
-    "title": "Grim Dawn",
-    "sortName": "grim_dawn",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/219990",
-    "store": "Steam",
-    "publisher": "Crate Entertainment",
-    "genres": [
-      "Igre s ulogama",
-      "Akcijske",
-      "Avanturističke",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100564911,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
@@ -5671,6 +5744,22 @@
       "Role Playing",
       "Action",
       "Adventure",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18316011,
+    "title": "Grim Dawn",
+    "sortName": "grim_dawn",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/219990",
+    "store": "Steam",
+    "publisher": "Crate Entertainment",
+    "genres": [
+      "Igre s ulogama",
+      "Akcijske",
+      "Avanturističke",
       "Indie"
     ],
     "status": "AVAILABLE"
@@ -6084,12 +6173,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18102411,
+    "id": 100936611,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/227940",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -6100,12 +6189,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100936611,
+    "id": 18102411,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/227940",
+    "store": "Steam",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -6334,6 +6423,23 @@
       "Akcijske",
       "Avanturističke",
       "Pucanje u prvom licu"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101722611,
+    "title": "Home Behind 2",
+    "sortName": "home_behind_2_gfn_pc",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1220010",
+    "store": "Steam",
+    "publisher": "Coconut Island Games",
+    "genres": [
+      "Avanturističke",
+      "Indie",
+      "Igre s ulogama",
+      "Simulacijske",
+      "Strateške"
     ],
     "status": "AVAILABLE"
   },
@@ -7602,6 +7708,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100935711,
+    "title": "Lumberjack's Dynasty",
+    "sortName": "lumberjacks_dynasty",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/968970",
+    "store": "Steam",
+    "publisher": "Toplitz Productions",
+    "genres": [
+      "Obiteljske",
+      "Igre s ulogama",
+      "Simulacijske"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100924511,
     "title": "Lynn, The Girl Drawn On Puzzles",
     "sortName": "lynn_the_girl_drawn_on_puzzles_trial",
@@ -7984,12 +8105,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100658511,
+    "id": 100658411,
     "title": "Might & Magic® Heroes® VII – Trial by Fire",
     "sortName": "might_and_magic_heroes_7_trials_by_fire",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/445310",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "UPLAY",
     "publisher": "Ubisoft",
     "genres": [
       "Igre s ulogama",
@@ -7998,12 +8119,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100658411,
+    "id": 100658511,
     "title": "Might & Magic® Heroes® VII – Trial by Fire",
     "sortName": "might_and_magic_heroes_7_trials_by_fire",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "UPLAY",
+    "steamUrl": "https://store.steampowered.com/app/445310",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Igre s ulogama",
@@ -9079,12 +9200,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 17943611,
+    "id": 100366111,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/238960",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -9095,12 +9216,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100366111,
+    "id": 17943611,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
+    "steamUrl": "https://store.steampowered.com/app/238960",
+    "store": "Steam",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -9155,21 +9276,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100039111,
-    "title": "PAYDAY 2",
-    "sortName": "payday_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/218620",
-    "store": "Steam",
-    "publisher": "Starbreeze Studios",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu",
-      "Igre s ulogama"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100376011,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
@@ -9181,6 +9287,21 @@
       "Action",
       "First-Person Shooter",
       "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100039111,
+    "title": "PAYDAY 2",
+    "sortName": "payday_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/218620",
+    "store": "Steam",
+    "publisher": "Starbreeze Studios",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu",
+      "Igre s ulogama"
     ],
     "status": "AVAILABLE"
   },
@@ -10182,6 +10303,21 @@
     "genres": [
       "Igre s ulogama",
       "Avanturističke"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100347511,
+    "title": "Rise of Industry",
+    "sortName": "rise_of_industry",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/671440",
+    "store": "Steam",
+    "publisher": "Kasedo Games",
+    "genres": [
+      "Indie",
+      "Simulacijske",
+      "Strateške"
     ],
     "status": "AVAILABLE"
   },
@@ -11203,6 +11339,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 17945111,
+    "title": "Sniper: Ghost Warrior 2",
+    "sortName": "sniper_ghost_warrior_2",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/34870",
+    "store": "Steam",
+    "publisher": "CI Games",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100067611,
     "title": "Sniper Ghost Warrior 3",
     "sortName": "sniper_ghost_warrior_3",
@@ -11347,6 +11497,21 @@
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Igre s ulogama"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100167011,
+    "title": "South Park™: The Stick of Truth™",
+    "sortName": "south_park_the_stick_of_truth_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/213670",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -12757,6 +12922,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100352311,
+    "title": "Tomb Raider",
+    "sortName": "tomb_raider_2013",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/203160",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 101659711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_2013",
@@ -12781,20 +12960,6 @@
     "genres": [
       "Akcijske",
       "Avanturističke"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100352311,
-    "title": "Tomb Raider",
-    "sortName": "tomb_raider_2013",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/203160",
-    "store": "Steam",
-    "publisher": "Square Enix",
-    "genres": [
-      "Action",
-      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -13326,23 +13491,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101652911,
-    "title": "Trine 4: The Nightmare Prince",
-    "sortName": "trine_4",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Modus Games",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "Platformer",
-      "Puzzle"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100378711,
     "title": "Trine 4: The Nightmare Prince",
     "sortName": "trine_4",
@@ -13356,6 +13504,23 @@
       "Indie",
       "Igre na platformi",
       "Slagalice"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101652911,
+    "title": "Trine 4: The Nightmare Prince",
+    "sortName": "trine_4",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Modus Games",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Platformer",
+      "Puzzle"
     ],
     "status": "AVAILABLE"
   },
@@ -13872,7 +14037,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100374711,
+    "id": 100351411,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -13902,10 +14067,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100341511,
+    "id": 100374711,
     "title": "Warframe",
     "sortName": "warframe",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/230410",
     "store": "Steam",
     "publisher": "Digital Extremes",
@@ -13917,10 +14082,10 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100351411,
+    "id": 100341511,
     "title": "Warframe",
     "sortName": "warframe",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/230410",
     "store": "Steam",
     "publisher": "Digital Extremes",
@@ -14117,22 +14282,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100234911,
-    "title": "War Thunder",
-    "sortName": "war_thunder_s",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/236390",
-    "store": "Steam",
-    "publisher": "Gaijin Entertainment",
-    "genres": [
-      "Velike internetske igre za više igrača",
-      "Besplatno za igranje",
-      "Simulacijske",
-      "Akcijske"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100368511,
     "title": "War Thunder",
     "sortName": "war_thunder_s",
@@ -14145,6 +14294,22 @@
       "Free To Play",
       "Simulation",
       "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100234911,
+    "title": "War Thunder",
+    "sortName": "war_thunder_s",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/236390",
+    "store": "Steam",
+    "publisher": "Gaijin Entertainment",
+    "genres": [
+      "Velike internetske igre za više igrača",
+      "Besplatno za igranje",
+      "Simulacijske",
+      "Akcijske"
     ],
     "status": "AVAILABLE"
   },
