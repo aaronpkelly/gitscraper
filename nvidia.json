@@ -544,7 +544,7 @@
       "Velike internetske igre za više igrača",
       "Igre s ulogama"
     ],
-    "status": "PATCHING"
+    "status": "AVAILABLE"
   },
   {
     "id": 100136611,
@@ -576,22 +576,6 @@
       "Akcijske",
       "Simulacijske",
       "Strateške"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100369611,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -629,6 +613,22 @@
   },
   {
     "id": 100375811,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100369611,
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": false,
@@ -708,12 +708,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101570411,
+    "id": 100088711,
     "title": "Assassin's Creed™: Director's Cut Edition",
     "sortName": "assassins_creed_01",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/15100",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -722,12 +722,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100088711,
+    "id": 101570411,
     "title": "Assassin's Creed™: Director's Cut Edition",
     "sortName": "assassins_creed_01",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/15100",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1611,7 +1611,7 @@
   },
   {
     "id": 100897811,
-    "title": "Black Desert",
+    "title": "Black Desert Online",
     "sortName": "black_desert",
     "isFullyOptimized": false,
     "steamUrl": "",
@@ -1630,12 +1630,12 @@
   },
   {
     "id": 100575611,
-    "title": "Black Desert",
+    "title": "Black Desert Online",
     "sortName": "black_desert_online",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/836620",
     "store": "Steam",
-    "publisher": "Kakao Games Europe",
+    "publisher": "Pearl Abyss",
     "genres": [
       "Action",
       "Adventure",
@@ -1648,7 +1648,7 @@
   },
   {
     "id": 100891711,
-    "title": "Black Desert",
+    "title": "Black Desert Online",
     "sortName": "black_desert_online_-_pearl_abyss_-_japan",
     "isFullyOptimized": false,
     "steamUrl": "",
@@ -1666,13 +1666,32 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100903411,
+    "title": "Black Desert Online",
+    "sortName": "black_desert_online_-_pearl_abyss_-_russia",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Pearl Abyss",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Massively Multiplayer Online",
+      "Role Playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 17948611,
-    "title": "Black Desert",
-    "sortName": "black_desert_online_-_steam_-_na/eu_-_old",
+    "title": "Black Desert Online",
+    "sortName": "black_desert_online_-_steam_-_na/eu",
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/582660",
     "store": "Steam",
-    "publisher": "Kakao Games Europe",
+    "publisher": "Pearl Abyss",
     "genres": [
       "Akcijske",
       "Avanturističke",
@@ -1685,7 +1704,7 @@
   },
   {
     "id": 100333811,
-    "title": "Black Desert",
+    "title": "Black Desert Online",
     "sortName": "black_desert_online_pearl_abyss",
     "isFullyOptimized": true,
     "steamUrl": "",
@@ -5248,12 +5267,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100656511,
+    "id": 100153511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/304390",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5262,12 +5281,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100153511,
+    "id": 100656511,
     "title": "For Honor™",
     "sortName": "for_honor_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/304390",
-    "store": "Steam",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -6293,7 +6312,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/6860",
     "store": "Steam",
-    "publisher": "Io Interactive",
+    "publisher": "IO Interactive A/S",
     "genres": [
       "Akcijske"
     ],
@@ -6332,7 +6351,7 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/236870",
     "store": "Steam",
-    "publisher": "Io Interactive",
+    "publisher": "IO Interactive A/S",
     "genres": [
       "Akcijske"
     ],
@@ -6358,7 +6377,7 @@
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
-    "publisher": "Io Interactive",
+    "publisher": "IO Interactive A/S",
     "genres": [
       "Akcijske"
     ],
@@ -8856,6 +8875,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101726211,
+    "title": "Old School RuneScape",
+    "sortName": "old_school_runescape_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1343370",
+    "store": "Steam",
+    "publisher": "Jagex",
+    "genres": [
+      "Besplatno za igranje",
+      "Velike internetske igre za više igrača",
+      "Utrke"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100634311,
     "title": "Onmyoji",
     "sortName": "onmyoji",
@@ -9276,21 +9310,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100039111,
-    "title": "PAYDAY 2",
-    "sortName": "payday_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/218620",
-    "store": "Steam",
-    "publisher": "Starbreeze Studios",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu",
-      "Igre s ulogama"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100376011,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
@@ -9302,6 +9321,21 @@
       "Action",
       "First-Person Shooter",
       "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100039111,
+    "title": "PAYDAY 2",
+    "sortName": "payday_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/218620",
+    "store": "Steam",
+    "publisher": "Starbreeze Studios",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu",
+      "Igre s ulogama"
     ],
     "status": "AVAILABLE"
   },
@@ -9973,12 +10007,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100009811,
+    "id": 100817711,
     "title": "Rayman® Legends",
     "sortName": "rayman_5",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -9989,12 +10023,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817711,
+    "id": 100009811,
     "title": "Rayman® Legends",
     "sortName": "rayman_5",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Epic",
+    "store": "UPLAY",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -10437,7 +10471,7 @@
   {
     "id": 101576211,
     "title": "Rogue Heroes: Ruins of Tasos",
-    "sortName": "rogue_heroes:_ruins_of_tasos",
+    "sortName": "rogue_heroes_ruins_of_tasos",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/787810",
     "store": "Steam",
@@ -10521,7 +10555,7 @@
       "Simulacijske",
       "Strateške"
     ],
-    "status": "MAINTENANCE"
+    "status": "AVAILABLE"
   },
   {
     "id": 101574911,
@@ -12669,20 +12703,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18114511,
-    "title": "Team Fortress 2",
-    "sortName": "team_fortress_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/440",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Akcijske",
-      "Besplatno za igranje"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100376211,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
@@ -12693,6 +12713,20 @@
     "genres": [
       "Action",
       "Free To Play"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18114511,
+    "title": "Team Fortress 2",
+    "sortName": "team_fortress_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/440",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Akcijske",
+      "Besplatno za igranje"
     ],
     "status": "AVAILABLE"
   },
@@ -12938,7 +12972,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100352311,
+    "id": 101659711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_2013",
     "isFullyOptimized": true,
@@ -12952,7 +12986,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101659711,
+    "id": 100352311,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_2013",
     "isFullyOptimized": true,
@@ -13275,12 +13309,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100818311,
+    "id": 100817511,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Epic",
+    "store": "UPLAY",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -13290,12 +13324,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817511,
+    "id": 100818311,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -14053,40 +14087,25 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100341511,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100351411,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100374711,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100341511,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/230410",
     "store": "Steam",
     "publisher": "Digital Extremes",
@@ -14109,6 +14128,21 @@
       "Akcijske",
       "Besplatno za igranje",
       "Internetske igre u areni za više igrača"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100351411,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
     ],
     "status": "AVAILABLE"
   },
