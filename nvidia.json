@@ -15,21 +15,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100931611,
-    "title": "8Doors: Arum's Afterlife Adventure Trial",
-    "sortName": "8doors_arum_s_afterlife_adventure_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Rootless Studio",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 101751711,
     "title": "Absolute Drift: Zen Edition",
     "sortName": "absolute_drift_egs",
@@ -544,7 +529,7 @@
       "Velike internetske igre za više igrača",
       "Igre s ulogama"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 100136611,
@@ -580,23 +565,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100042611,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu",
-      "Simulacijske",
-      "Strateške"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100375811,
+    "id": 100369611,
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": false,
@@ -628,7 +597,23 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100369611,
+    "id": 100042611,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu",
+      "Simulacijske",
+      "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100375811,
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": false,
@@ -742,12 +727,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100088711,
+    "id": 101570411,
     "title": "Assassin's Creed™: Director's Cut Edition",
     "sortName": "assassins_creed_01",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/15100",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -756,12 +741,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101570411,
+    "id": 100088711,
     "title": "Assassin's Creed™: Director's Cut Edition",
     "sortName": "assassins_creed_01",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/15100",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1358,19 +1343,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100899911,
-    "title": "Aurore Trial",
-    "sortName": "aurore_trial_gfn",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Aurore Game",
-    "genres": [
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100476211,
     "title": "Automation - The Car Company Tycoon Game",
     "sortName": "automation_-_the_car_company_tycoon_game",
@@ -1503,7 +1475,7 @@
   {
     "id": 101797611,
     "title": "BASEBALL STARS 2",
-    "sortName": "baseball_stars_2_-_one_click_play",
+    "sortName": "baseball_stars_2_one_click_play",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "",
@@ -1900,20 +1872,6 @@
       "Avanturističke",
       "Indie",
       "Igre s ulogama"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100870111,
-    "title": "Blind Girl Trial",
-    "sortName": "blind_girl_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Shin Ga Ui",
-    "genres": [
-      "Adventure",
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -2351,20 +2309,6 @@
       "Pucanje u prvom licu",
       "Besplatno za igranje",
       "Velike internetske igre za više igrača"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100899511,
-    "title": "Colorzzle Trial",
-    "sortName": "colorzzle_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Darong Studio",
-    "genres": [
-      "Casual",
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -4832,12 +4776,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817811,
+    "id": 100245011,
     "title": "Farming Simulator 19",
     "sortName": "farming_simulator_2019",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/787860",
+    "store": "Steam",
     "publisher": "Focus Home Interactive",
     "genres": [
       "Obične",
@@ -4847,12 +4791,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100245011,
+    "id": 100817811,
     "title": "Farming Simulator 19",
     "sortName": "farming_simulator_2019",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/787860",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Focus Home Interactive",
     "genres": [
       "Obične",
@@ -5260,22 +5204,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100926011,
-    "title": "Fight of Animals Trial version",
-    "sortName": "fight_of_animals",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Digital Crafter",
-    "genres": [
-      "Action",
-      "Casual",
-      "Indie",
-      "Sports"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100080811,
     "title": "Firewatch",
     "sortName": "firewatch_-_gfnpc",
@@ -5462,32 +5390,6 @@
     "publisher": "Gun Media",
     "genres": [
       "Akcijske",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100899711,
-    "title": "Frincess & Cnight Trial",
-    "sortName": "frincess_cnight",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Singlecore Games",
-    "genres": [
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100870011,
-    "title": "Frostory Trial",
-    "sortName": "frostory_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "OOPArts",
-    "genres": [
       "Indie"
     ],
     "status": "AVAILABLE"
@@ -5755,7 +5657,7 @@
   {
     "id": 100004611,
     "title": "GoNNER",
-    "sortName": "gonner_-_steam",
+    "sortName": "gonner_1_steam",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/437570",
     "store": "Steam",
@@ -5864,22 +5766,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
-    "title": "Grim Dawn",
-    "sortName": "grim_dawn",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/219990",
-    "store": "Steam",
-    "publisher": "Crate Entertainment",
-    "genres": [
-      "Role Playing",
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
@@ -5891,6 +5777,22 @@
       "Igre s ulogama",
       "Akcijske",
       "Avanturističke",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100564911,
+    "title": "Grim Dawn",
+    "sortName": "grim_dawn",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/219990",
+    "store": "Steam",
+    "publisher": "Crate Entertainment",
+    "genres": [
+      "Role Playing",
+      "Action",
+      "Adventure",
       "Indie"
     ],
     "status": "AVAILABLE"
@@ -6097,20 +5999,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18111211,
-    "title": "Half-Life®",
-    "sortName": "half_life_1",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/70",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100374911,
     "title": "Half-Life®",
     "sortName": "half_life_1",
@@ -6121,6 +6009,20 @@
     "genres": [
       "Action",
       "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18111211,
+    "title": "Half-Life®",
+    "sortName": "half_life_1",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/70",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu"
     ],
     "status": "AVAILABLE"
   },
@@ -6178,7 +6080,7 @@
       "Akcijske",
       "Pucanje u prvom licu"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100838911,
@@ -6304,12 +6206,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100936611,
+    "id": 18102411,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/227940",
+    "store": "Steam",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -6323,12 +6225,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18102411,
+    "id": 100936611,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/227940",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -7862,7 +7764,7 @@
   {
     "id": 101790411,
     "title": "Loop Hero",
-    "sortName": "loop_hero_-_epic_games_store",
+    "sortName": "loop_hero_egs",
     "isFullyOptimized": false,
     "steamUrl": "",
     "store": "Epic",
@@ -7918,22 +7820,6 @@
       "Obiteljske",
       "Igre s ulogama",
       "Simulacijske"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100924511,
-    "title": "Lynn, The Girl Drawn On Puzzles",
-    "sortName": "lynn_the_girl_drawn_on_puzzles_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "DoTORis",
-    "genres": [
-      "Casual",
-      "Indie",
-      "Puzzle",
-      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -8395,7 +8281,7 @@
   {
     "id": 100672811,
     "title": "MONOPOLY® PLUS",
-    "sortName": "monopoly_plus_-_steam",
+    "sortName": "monopoly_plus_steam",
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/562810",
     "store": "Steam",
@@ -8791,21 +8677,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100864611,
-    "title": "My Lovely Daughter Trial",
-    "sortName": "my_lovely_daughter_trial_gfn_pc",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Toge Productions",
-    "genres": [
-      "Adventure",
-      "Indie",
-      "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100269611,
     "title": "My Memory of Us",
     "sortName": "my_memory_of_us",
@@ -8883,20 +8754,6 @@
     "genres": [
       "Sportske",
       "Utrke"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100931711,
-    "title": "Needlesong Trial",
-    "sortName": "needlesong_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Youngmin Park",
-    "genres": [
-      "Action",
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -9008,19 +8865,6 @@
       "Besplatno za igranje",
       "Indie",
       "Strateške"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100924711,
-    "title": "NINJA ISSEN Trial version",
-    "sortName": "ninja_issen_trial_version",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "ASTROID-J",
-    "genres": [
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -9339,6 +9183,23 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101757011,
+    "title": "Overcooked! All You Can Eat",
+    "sortName": "overcooked_all_you_can_eat_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/1243830",
+    "store": "Steam",
+    "publisher": "Team17 Digital Limited",
+    "genres": [
+      "Obične",
+      "Obiteljske",
+      "Indie",
+      "Simulacijske",
+      "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100392611,
     "title": "OVERPASS™",
     "sortName": "overpass_-_epic_games_store",
@@ -9439,6 +9300,20 @@
       "Indie",
       "Slagalice",
       "Simulacijske"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100709511,
+    "title": "Paradise Lost",
+    "sortName": "paradise_lost",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/982720",
+    "store": "Steam",
+    "publisher": "All in! Games",
+    "genres": [
+      "Avanturističke",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -9591,21 +9466,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376011,
-    "title": "PAYDAY 2",
-    "sortName": "payday_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/218620",
-    "store": "Steam",
-    "publisher": "Starbreeze Studios",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100039111,
     "title": "PAYDAY 2",
     "sortName": "payday_2",
@@ -9617,6 +9477,21 @@
       "Akcijske",
       "Pucanje u prvom licu",
       "Igre s ulogama"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100376011,
+    "title": "PAYDAY 2",
+    "sortName": "payday_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/218620",
+    "store": "Steam",
+    "publisher": "Starbreeze Studios",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -10446,19 +10321,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100899311,
-    "title": "Replica Trial",
-    "sortName": "replica_trial_gfn_pc",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Somi",
-    "genres": [
-      "Action"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100478911,
     "title": "REZ PLZ",
     "sortName": "rez_plz",
@@ -10472,19 +10334,6 @@
       "Indie",
       "Igre na platformi",
       "Slagalice"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100891311,
-    "title": "Rhythm Doctor",
-    "sortName": "rhythm_doctor_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Indienova",
-    "genres": [
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -10530,19 +10379,6 @@
       "Utrke",
       "Simulacijske",
       "Sportske"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100900111,
-    "title": "Riffle Effect Trial",
-    "sortName": "riffle_effect_tria",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Outsider Kids",
-    "genres": [
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -10805,19 +10641,6 @@
     "genres": [
       "Simulacijske",
       "Strateške"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100899811,
-    "title": "RP7 Trial",
-    "sortName": "rp7_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Turtle Cream",
-    "genres": [
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -11506,20 +11329,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100924811,
-    "title": "SKUL: The Hero Slayer Trial",
-    "sortName": "skul_the_hero_slayer",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "SouthPAW Games",
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100409411,
     "title": "Skybolt Zack",
     "sortName": "skybolt_zack",
@@ -11792,20 +11601,6 @@
     "genres": [
       "Akcijske",
       "Avanturističke",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100899211,
-    "title": "Songbird Symphony Trial",
-    "sortName": "songbird_symphony_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "PQube Limited",
-    "genres": [
-      "Adventure",
       "Indie"
     ],
     "status": "AVAILABLE"
@@ -12969,21 +12764,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100415211,
-    "title": "System Shock: Enhanced Edition",
-    "sortName": "system_shock:_enhanced_edition",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/410710",
-    "store": "Steam",
-    "publisher": "Night Dive Studios",
-    "genres": [
-      "Akcijske",
-      "Avanturističke",
-      "Igre s ulogama"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 101697711,
     "title": "System Shock Demo",
     "sortName": "system_shock_demo_steam",
@@ -12995,6 +12775,21 @@
       "Akcijske",
       "Avanturističke",
       "Pucanje u prvom licu"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100415211,
+    "title": "System Shock: Enhanced Edition",
+    "sortName": "system_shock_enhanced_edition",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/410710",
+    "store": "Steam",
+    "publisher": "Night Dive Studios",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Igre s ulogama"
     ],
     "status": "AVAILABLE"
   },
@@ -13371,7 +13166,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101659711,
+    "id": 100352311,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_2013",
     "isFullyOptimized": true,
@@ -13399,7 +13194,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100352311,
+    "id": 101659711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_2013",
     "isFullyOptimized": true,
@@ -13708,12 +13503,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100818311,
+    "id": 100817511,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Epic",
+    "store": "UPLAY",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -13723,12 +13518,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817511,
+    "id": 100818311,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -14425,21 +14220,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574411,
-    "title": "Warface",
-    "sortName": "warface",
-    "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Mail.ru Group",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100574511,
     "title": "Warface",
     "sortName": "warface",
@@ -14451,6 +14231,21 @@
       "Akcijske",
       "Besplatno za igranje",
       "Velike internetske igre za više igrača"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100574411,
+    "title": "Warface",
+    "sortName": "warface",
+    "isFullyOptimized": true,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Mail.ru Group",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer Online"
     ],
     "status": "AVAILABLE"
   },
@@ -14775,22 +14570,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100234911,
-    "title": "War Thunder",
-    "sortName": "war_thunder_s",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/236390",
-    "store": "Steam",
-    "publisher": "Gaijin Entertainment",
-    "genres": [
-      "Velike internetske igre za više igrača",
-      "Besplatno za igranje",
-      "Simulacijske",
-      "Akcijske"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100368511,
     "title": "War Thunder",
     "sortName": "war_thunder_s",
@@ -14803,6 +14582,22 @@
       "Free To Play",
       "Simulation",
       "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100234911,
+    "title": "War Thunder",
+    "sortName": "war_thunder_s",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/236390",
+    "store": "Steam",
+    "publisher": "Gaijin Entertainment",
+    "genres": [
+      "Velike internetske igre za više igrača",
+      "Besplatno za igranje",
+      "Simulacijske",
+      "Akcijske"
     ],
     "status": "AVAILABLE"
   },
@@ -14915,21 +14710,6 @@
     "genres": [
       "Akcijske",
       "Avanturističke"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100900211,
-    "title": "WaveCrash! Trial",
-    "sortName": "wavecrash_trial",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Flyover Games",
-    "genres": [
-      "Action",
-      "Casual",
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -15138,7 +14918,7 @@
   },
   {
     "id": 100932511,
-    "title": "The Witcher® 3: Wild Hunt - GOTY - GOG",
+    "title": "The Witcher® 3: Wild Hunt - Game of the Year",
     "sortName": "witcher_3_goty_gog",
     "isFullyOptimized": false,
     "steamUrl": "",
