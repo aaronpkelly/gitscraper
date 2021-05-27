@@ -370,7 +370,7 @@
     "sortName": "anno_1800_-_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Strateške",
@@ -398,7 +398,7 @@
     "sortName": "anno_2070_-_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Strateške",
@@ -412,7 +412,7 @@
     "sortName": "anno_2205",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Simulation",
@@ -426,7 +426,7 @@
     "sortName": "anno_2205",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Simulation",
@@ -664,7 +664,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100375811,
+    "id": 100565011,
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": true,
@@ -696,7 +696,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100565011,
+    "id": 100375811,
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": true,
@@ -859,7 +859,7 @@
     "sortName": "assassins_creed_01_directors_cut_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -887,7 +887,7 @@
     "sortName": "assassins_creed_02_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -915,7 +915,7 @@
     "sortName": "assassins_creed_03_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -943,7 +943,7 @@
     "sortName": "assassins_creed_04_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -985,7 +985,7 @@
     "sortName": "assassins_creed_05_remastered_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1013,7 +1013,7 @@
     "sortName": "assassins_creed_06_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1055,7 +1055,7 @@
     "sortName": "assassins_creed_07_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1097,7 +1097,7 @@
     "sortName": "assassins_creed_08_uplay_international",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1111,7 +1111,7 @@
     "sortName": "assassins_creed_08_uplay_russia",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -1153,7 +1153,7 @@
     "sortName": "assassins_creed_09_uplay_north_america",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1167,7 +1167,7 @@
     "sortName": "assassins_creed_09_uplay_russia",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -1209,7 +1209,7 @@
     "sortName": "assassins_creed_10_uplay_ww",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1251,7 +1251,7 @@
     "sortName": "assassins_creed_11_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1279,7 +1279,7 @@
     "sortName": "assassins_creed_12_steam",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1293,7 +1293,7 @@
     "sortName": "assassins_creed_4a_freedom_cry_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1307,7 +1307,7 @@
     "sortName": "assassins_creed_chronicles_china_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1321,7 +1321,7 @@
     "sortName": "assassins_creed_chronicles_india_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1335,7 +1335,7 @@
     "sortName": "assassins_creed_chronicles_russia_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -1793,7 +1793,7 @@
     "sortName": "beyond_good_&_evil_-_ubisoft_connect",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -2470,7 +2470,7 @@
     "sortName": "child_of_light_-_ubisoft_connect_-_row",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Avanturističke",
@@ -2910,7 +2910,7 @@
     "sortName": "crew_1_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -2955,7 +2955,7 @@
     "sortName": "crew_2_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -4088,21 +4088,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100376611,
-    "title": "Divinity: Original Sin 2 - Definitive Edition",
-    "sortName": "divinity_original_sin_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/435150",
-    "store": "Steam",
-    "publisher": "Larian Studios",
-    "genres": [
-      "Adventure",
-      "Role Playing",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100075911,
     "title": "Divinity: Original Sin 2 - Definitive Edition",
     "sortName": "divinity_original_sin_2",
@@ -4114,6 +4099,21 @@
       "Avanturističke",
       "Igre s ulogama",
       "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100376611,
+    "title": "Divinity: Original Sin 2 - Definitive Edition",
+    "sortName": "divinity_original_sin_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/435150",
+    "store": "Steam",
+    "publisher": "Larian Studios",
+    "genres": [
+      "Adventure",
+      "Role Playing",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -4139,7 +4139,7 @@
     "sortName": "division_1_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -4171,7 +4171,7 @@
     "sortName": "division_2_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5274,12 +5274,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100245011,
+    "id": 100817811,
     "title": "Farming Simulator 19",
     "sortName": "farming_simulator_2019",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/787860",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Focus Home Interactive",
     "genres": [
       "Obične",
@@ -5289,12 +5289,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817811,
+    "id": 100245011,
     "title": "Farming Simulator 19",
     "sortName": "farming_simulator_2019",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/787860",
+    "store": "Steam",
     "publisher": "Focus Home Interactive",
     "genres": [
       "Obične",
@@ -5353,21 +5353,7 @@
     "sortName": "far_cry_1_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100090511,
-    "title": "Far Cry® 2: Fortune's Edition",
-    "sortName": "far_cry_2",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/19900",
-    "store": "Steam",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5390,12 +5376,26 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100090511,
+    "title": "Far Cry® 2: Fortune's Edition",
+    "sortName": "far_cry_2",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/19900",
+    "store": "Steam",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100657611,
     "title": "Far Cry® 2: Fortune's Edition",
     "sortName": "far_cry_2_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5423,7 +5423,7 @@
     "sortName": "far_cry_3a_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5467,7 +5467,7 @@
     "sortName": "far_cry_3_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5512,7 +5512,7 @@
     "sortName": "far_cry_4a_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5557,7 +5557,7 @@
     "sortName": "far_cry_4_uplay_namerica",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5572,7 +5572,7 @@
     "sortName": "far_cry_4_uplay_russia",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -5587,7 +5587,7 @@
     "sortName": "far_cry_5a",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5662,7 +5662,7 @@
     "sortName": "far_cry_5_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5852,7 +5852,7 @@
     "sortName": "for_honor_2",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -6059,7 +6059,7 @@
     "sortName": "ghost_recon_breakpoint",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -6321,22 +6321,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
-    "title": "Grim Dawn",
-    "sortName": "grim_dawn",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/219990",
-    "store": "Steam",
-    "publisher": "Crate Entertainment",
-    "genres": [
-      "Role Playing",
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
@@ -6348,6 +6332,22 @@
       "Igre s ulogama",
       "Akcijske",
       "Avanturističke",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100564911,
+    "title": "Grim Dawn",
+    "sortName": "grim_dawn",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/219990",
+    "store": "Steam",
+    "publisher": "Crate Entertainment",
+    "genres": [
+      "Role Playing",
+      "Action",
+      "Adventure",
       "Indie"
     ],
     "status": "AVAILABLE"
@@ -6788,12 +6788,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18102411,
+    "id": 100936611,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/227940",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -6807,12 +6807,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100936611,
+    "id": 18102411,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/227940",
+    "store": "Steam",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -6871,7 +6871,7 @@
     "sortName": "heroes_of_might_magic_va_tribes_of_the_east_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Strateške"
@@ -6884,7 +6884,7 @@
     "sortName": "heroes_of_might_magic_v_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Strateške"
@@ -7297,7 +7297,7 @@
     "sortName": "hyper_scape_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -7342,6 +7342,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100753611,
+    "title": "Imagine Earth",
+    "sortName": "imagine_earth",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/280720",
+    "store": "Steam",
+    "publisher": "Serious Brothers",
+    "genres": [
+      "Indie",
+      "Simulacijske",
+      "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 101660411,
     "title": "Immortals Fenyx Rising™ Demo",
     "sortName": "immortals_fenyx_rising_demo_egs",
@@ -7361,7 +7376,7 @@
     "sortName": "immortals_fenyx_rising_demo_ubisoft_connect",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -7389,7 +7404,7 @@
     "sortName": "immortals_fenyx_rising_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -7694,20 +7709,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100222711,
-    "title": "Just Cause 4 Reloaded",
-    "sortName": "just_cause_4",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/517630",
-    "store": "Steam",
-    "publisher": "Square Enix",
-    "genres": [
-      "Akcijske",
-      "Avanturističke"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100857011,
     "title": "Just Cause 4 Reloaded",
     "sortName": "just_cause_4",
@@ -7718,6 +7719,20 @@
     "genres": [
       "Action",
       "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100222711,
+    "title": "Just Cause 4 Reloaded",
+    "sortName": "just_cause_4",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/517630",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Akcijske",
+      "Avanturističke"
     ],
     "status": "AVAILABLE"
   },
@@ -8876,7 +8891,7 @@
     "sortName": "might_and_magic_heroes_6",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Strateške"
@@ -8903,11 +8918,25 @@
     "sortName": "might_and_magic_heroes_7",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Strateške",
       "Igre s ulogama"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100658411,
+    "title": "Might & Magic® Heroes® VII – Trial by Fire",
+    "sortName": "might_and_magic_heroes_7_trials_by_fire",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Ubisoft Connect",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Igre s ulogama",
+      "Strateške"
     ],
     "status": "AVAILABLE"
   },
@@ -8926,26 +8955,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100658411,
-    "title": "Might & Magic® Heroes® VII – Trial by Fire",
-    "sortName": "might_and_magic_heroes_7_trials_by_fire",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "UPLAY",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Igre s ulogama",
-      "Strateške"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100911011,
     "title": "Might & Magic® X Legacy",
     "sortName": "might_magic_x_legacy_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Igre s ulogama"
@@ -10342,12 +10357,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 17943611,
+    "id": 100366111,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/238960",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -10358,12 +10373,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100366111,
+    "id": 17943611,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
+    "steamUrl": "https://store.steampowered.com/app/238960",
+    "store": "Steam",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -11225,7 +11240,7 @@
     "sortName": "rayman_5",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -11273,7 +11288,7 @@
     "sortName": "rayman_origins_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -11897,12 +11912,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100398511,
+    "id": 101865911,
     "title": "Saints Row®: The Third™ Remastered",
     "sortName": "saints_row_3_remastered",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/978300",
+    "store": "Steam",
     "publisher": "Deep Silver",
     "genres": [
       "Akcijske"
@@ -11910,12 +11925,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101865911,
+    "id": 100398511,
     "title": "Saints Row®: The Third™ Remastered",
     "sortName": "saints_row_3_remastered",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/978300",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Deep Silver",
     "genres": [
       "Akcijske"
@@ -12054,7 +12069,7 @@
     "sortName": "scott_pilgrim_vs_the_world_the_game_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -12244,7 +12259,7 @@
     "sortName": "settlers_7_history_edition_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Strateške"
@@ -12486,7 +12501,7 @@
     "sortName": "silent_hunter_iii",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Strateške"
@@ -12880,7 +12895,7 @@
     "sortName": "south_park_the_fractured_but_whole_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Igre s ulogama"
@@ -12923,7 +12938,7 @@
     "sortName": "south_park_the_stick_of_truth_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -13185,7 +13200,7 @@
     "sortName": "splinter_cell_chaos_theory_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske"
@@ -13538,7 +13553,7 @@
     "sortName": "steep_uplay",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Sportske",
@@ -14342,20 +14357,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18114511,
-    "title": "Team Fortress 2",
-    "sortName": "team_fortress_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/440",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Akcijske",
-      "Besplatno za igranje"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100376211,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
@@ -14366,6 +14367,20 @@
     "genres": [
       "Action",
       "Free To Play"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18114511,
+    "title": "Team Fortress 2",
+    "sortName": "team_fortress_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/440",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Akcijske",
+      "Besplatno za igranje"
     ],
     "status": "AVAILABLE"
   },
@@ -14668,20 +14683,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101659711,
-    "title": "Tomb Raider",
-    "sortName": "tomb_raider_2013",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/203160",
-    "store": "Steam",
-    "publisher": "Square Enix",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100080711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_2013",
@@ -14697,6 +14698,20 @@
   },
   {
     "id": 100352311,
+    "title": "Tomb Raider",
+    "sortName": "tomb_raider_2013",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/203160",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101659711,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_2013",
     "isFullyOptimized": true,
@@ -14802,7 +14817,7 @@
     "sortName": "tom_clancys_ghost_recon_wildlands_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -14858,7 +14873,7 @@
     "sortName": "tom_clancys_rainbow_six_siege_uplay_russia",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Action",
@@ -14872,7 +14887,7 @@
     "sortName": "tom_clancys_rainbow_six_siege_uplay_ww",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -14900,25 +14915,11 @@
     "sortName": "tom_clancys_splinter_cell_blacklist_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
       "Avanturističke"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 101812711,
-    "title": "Torchlight",
-    "sortName": "torchlight_01",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
-    "publisher": "Perfect World Entertainment",
-    "genres": [
-      "Akcijske",
-      "Igre s ulogama"
     ],
     "status": "AVAILABLE"
   },
@@ -14929,6 +14930,20 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/41500",
     "store": "Steam",
+    "publisher": "Perfect World Entertainment",
+    "genres": [
+      "Akcijske",
+      "Igre s ulogama"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101812711,
+    "title": "Torchlight",
+    "sortName": "torchlight_01",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Perfect World Entertainment",
     "genres": [
       "Akcijske",
@@ -15077,12 +15092,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817511,
+    "id": 100818311,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -15092,12 +15107,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100818311,
+    "id": 100817511,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Epic",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -15126,7 +15141,7 @@
     "sortName": "trackmania_2_stadium_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Utrke",
@@ -15140,7 +15155,7 @@
     "sortName": "trackmania_turbo_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Velike internetske igre za više igrača",
@@ -15296,7 +15311,7 @@
     "sortName": "trials_rising_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Utrke"
@@ -15743,7 +15758,7 @@
     "sortName": "uno_uplay",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Obične",
@@ -15885,21 +15900,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574411,
-    "title": "Warface",
-    "sortName": "warface",
-    "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Mail.ru Group",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100574511,
     "title": "Warface",
     "sortName": "warface",
@@ -15911,6 +15911,21 @@
       "Akcijske",
       "Besplatno za igranje",
       "Velike internetske igre za više igrača"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100574411,
+    "title": "Warface",
+    "sortName": "warface",
+    "isFullyOptimized": true,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Mail.ru Group",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer Online"
     ],
     "status": "AVAILABLE"
   },
@@ -15975,7 +15990,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 11285111,
+    "id": 100341511,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -15983,9 +15998,9 @@
     "store": "Steam",
     "publisher": "Digital Extremes",
     "genres": [
-      "Akcijske",
-      "Besplatno za igranje",
-      "Internetske igre u areni za više igrača"
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
     ],
     "status": "AVAILABLE"
   },
@@ -16005,7 +16020,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100341511,
+    "id": 11285111,
     "title": "Warframe",
     "sortName": "warframe",
     "isFullyOptimized": true,
@@ -16013,9 +16028,9 @@
     "store": "Steam",
     "publisher": "Digital Extremes",
     "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
+      "Akcijske",
+      "Besplatno za igranje",
+      "Internetske igre u areni za više igrača"
     ],
     "status": "AVAILABLE"
   },
@@ -16331,7 +16346,7 @@
     "sortName": "watch_dogs_1_uplay_ww",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -16387,7 +16402,7 @@
     "sortName": "watch_dogs_2_uplay_ww",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -16401,7 +16416,7 @@
     "sortName": "watch_dogs_3",
     "isFullyOptimized": true,
     "steamUrl": "",
-    "store": "UPLAY",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
