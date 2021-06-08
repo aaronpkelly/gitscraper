@@ -407,7 +407,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100224011,
+    "id": 100053811,
     "title": "Anno® 2205",
     "sortName": "anno_2205",
     "isFullyOptimized": false,
@@ -421,7 +421,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100053811,
+    "id": 100224011,
     "title": "Anno® 2205",
     "sortName": "anno_2205",
     "isFullyOptimized": false,
@@ -648,39 +648,7 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100375811,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100369611,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100565011,
     "title": "Arma 3",
     "sortName": "arma_3",
     "isFullyOptimized": true,
@@ -708,6 +676,38 @@
       "Pucanje u prvom licu",
       "Simulacijske",
       "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100565011,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100375811,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -826,12 +826,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101570411,
+    "id": 100088711,
     "title": "Assassin's Creed™: Director's Cut Edition",
     "sortName": "assassins_creed_01",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/15100",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -840,12 +840,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100088711,
+    "id": 101570411,
     "title": "Assassin's Creed™: Director's Cut Edition",
     "sortName": "assassins_creed_01",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/15100",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -893,7 +893,7 @@
       "Akcijske",
       "Avanturističke"
     ],
-    "status": "PATCHING"
+    "status": "AVAILABLE"
   },
   {
     "id": 100088811,
@@ -5518,12 +5518,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101570211,
+    "id": 100090511,
     "title": "Far Cry® 2: Fortune's Edition",
     "sortName": "far_cry_2",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/19900",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5532,12 +5532,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100090511,
+    "id": 101570211,
     "title": "Far Cry® 2: Fortune's Edition",
     "sortName": "far_cry_2",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/19900",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -6491,22 +6491,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100564911,
-    "title": "Grim Dawn",
-    "sortName": "grim_dawn",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/219990",
-    "store": "Steam",
-    "publisher": "Crate Entertainment",
-    "genres": [
-      "Role Playing",
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 18316011,
     "title": "Grim Dawn",
     "sortName": "grim_dawn",
@@ -6518,6 +6502,22 @@
       "Igre s ulogama",
       "Akcijske",
       "Avanturističke",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100564911,
+    "title": "Grim Dawn",
+    "sortName": "grim_dawn",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/219990",
+    "store": "Steam",
+    "publisher": "Crate Entertainment",
+    "genres": [
+      "Role Playing",
+      "Action",
+      "Adventure",
       "Indie"
     ],
     "status": "AVAILABLE"
@@ -6766,20 +6766,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 19111,
-    "title": "Half-Life® 2",
-    "sortName": "half_life_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/220",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Akcijske",
-      "Pucanje u prvom licu"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100370111,
     "title": "Half-Life® 2",
     "sortName": "half_life_2",
@@ -6790,6 +6776,20 @@
     "genres": [
       "Action",
       "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 19111,
+    "title": "Half-Life® 2",
+    "sortName": "half_life_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/220",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Akcijske",
+      "Pucanje u prvom licu"
     ],
     "status": "AVAILABLE"
   },
@@ -7895,20 +7895,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100857011,
-    "title": "Just Cause 4 Reloaded",
-    "sortName": "just_cause_4",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/517630",
-    "store": "Steam",
-    "publisher": "Square Enix",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100222711,
     "title": "Just Cause 4 Reloaded",
     "sortName": "just_cause_4",
@@ -7919,6 +7905,20 @@
     "genres": [
       "Akcijske",
       "Avanturističke"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100857011,
+    "title": "Just Cause 4 Reloaded",
+    "sortName": "just_cause_4",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/517630",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action",
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -8525,12 +8525,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101847811,
+    "id": 100894011,
     "title": "The Legend of Heroes: Trails of Cold Steel IV",
     "sortName": "legend_of_heroes_trails_9",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/1198090",
+    "store": "Steam",
     "publisher": "NIS America",
     "genres": [
       "Igre s ulogama"
@@ -8538,12 +8538,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100894011,
+    "id": 101847811,
     "title": "The Legend of Heroes: Trails of Cold Steel IV",
     "sortName": "legend_of_heroes_trails_9",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/1198090",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "NIS America",
     "genres": [
       "Igre s ulogama"
@@ -9158,12 +9158,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100658511,
+    "id": 100658411,
     "title": "Might & Magic® Heroes® VII – Trial by Fire",
     "sortName": "might_and_magic_heroes_7_trials_by_fire",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/445310",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Igre s ulogama",
@@ -9172,12 +9172,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100658411,
+    "id": 100658511,
     "title": "Might & Magic® Heroes® VII – Trial by Fire",
     "sortName": "might_and_magic_heroes_7_trials_by_fire",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Ubisoft Connect",
+    "steamUrl": "https://store.steampowered.com/app/445310",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Igre s ulogama",
@@ -10645,12 +10645,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100366111,
+    "id": 17943611,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
+    "steamUrl": "https://store.steampowered.com/app/238960",
+    "store": "Steam",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -10661,12 +10661,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 17943611,
+    "id": 100366111,
     "title": "Path of Exile",
     "sortName": "path_of_exile",
     "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/238960",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "",
     "publisher": "Grinding Gear Games",
     "genres": [
       "Avanturističke",
@@ -11524,22 +11524,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100009811,
-    "title": "Rayman® Legends",
-    "sortName": "rayman_5",
-    "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Ubisoft Connect",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Akcijske",
-      "Avanturističke",
-      "Obiteljske",
-      "Igre na platformi"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100817711,
     "title": "Rayman® Legends",
     "sortName": "rayman_5",
@@ -11562,6 +11546,22 @@
     "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/242550",
     "store": "Steam",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Obiteljske",
+      "Igre na platformi"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100009811,
+    "title": "Rayman® Legends",
+    "sortName": "rayman_5",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -12197,12 +12197,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101865911,
+    "id": 100398511,
     "title": "Saints Row®: The Third™ Remastered",
     "sortName": "saints_row_3_remastered",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/978300",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Deep Silver",
     "genres": [
       "Akcijske"
@@ -12210,12 +12210,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100398511,
+    "id": 101865911,
     "title": "Saints Row®: The Third™ Remastered",
     "sortName": "saints_row_3_remastered",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/978300",
+    "store": "Steam",
     "publisher": "Deep Silver",
     "genres": [
       "Akcijske"
@@ -14994,20 +14994,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101659711,
-    "title": "Tomb Raider",
-    "sortName": "tomb_raider_2013",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/203160",
-    "store": "Steam",
-    "publisher": "Square Enix",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100352311,
     "title": "Tomb Raider",
     "sortName": "tomb_raider_2013",
@@ -15032,6 +15018,20 @@
     "genres": [
       "Akcijske",
       "Avanturističke"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101659711,
+    "title": "Tomb Raider",
+    "sortName": "tomb_raider_2013",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/203160",
+    "store": "Steam",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action",
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -15738,23 +15738,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100378711,
-    "title": "Trine 4: The Nightmare Prince",
-    "sortName": "trine_4",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/690640",
-    "store": "Steam",
-    "publisher": "Modus Games",
-    "genres": [
-      "Akcijske",
-      "Avanturističke",
-      "Indie",
-      "Igre na platformi",
-      "Slagalice"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 101652911,
     "title": "Trine 4: The Nightmare Prince",
     "sortName": "trine_4",
@@ -15768,6 +15751,23 @@
       "Indie",
       "Platformer",
       "Puzzle"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100378711,
+    "title": "Trine 4: The Nightmare Prince",
+    "sortName": "trine_4",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/690640",
+    "store": "Steam",
+    "publisher": "Modus Games",
+    "genres": [
+      "Akcijske",
+      "Avanturističke",
+      "Indie",
+      "Igre na platformi",
+      "Slagalice"
     ],
     "status": "AVAILABLE"
   },
@@ -16372,6 +16372,36 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100351411,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100374711,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100341511,
     "title": "Warframe",
     "sortName": "warframe",
@@ -16398,36 +16428,6 @@
       "Akcijske",
       "Besplatno za igranje",
       "Internetske igre u areni za više igrača"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100374711,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100351411,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Multiplayer Online Battle Arena"
     ],
     "status": "AVAILABLE"
   },
