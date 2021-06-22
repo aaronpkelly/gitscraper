@@ -663,38 +663,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100375811,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100369611,
-    "title": "Arma 3",
-    "sortName": "arma_3",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/107410",
-    "store": "Steam",
-    "publisher": "Bohemia Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100565011,
     "title": "Arma 3",
     "sortName": "arma_3",
@@ -723,6 +691,38 @@
       "Pucanje u prvom licu",
       "Simulacijske",
       "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100375811,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100369611,
+    "title": "Arma 3",
+    "sortName": "arma_3",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/107410",
+    "store": "Steam",
+    "publisher": "Bohemia Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Simulation",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -1893,7 +1893,7 @@
     "id": 101864611,
     "title": "BIOMUTANT®",
     "sortName": "biomutant_-_epic_games_store",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "",
     "store": "Epic",
     "publisher": "THQ Nordic GmbH",
@@ -1907,7 +1907,7 @@
     "id": 100215211,
     "title": "BIOMUTANT®",
     "sortName": "biomutant_-_steam",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/597820",
     "store": "Steam",
     "publisher": "THQ Nordic GmbH",
@@ -2254,7 +2254,7 @@
   {
     "id": 100005111,
     "title": "Brawlhalla",
-    "sortName": "brawlhalla",
+    "sortName": "brawlhalla_-_steam",
     "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/291550",
     "store": "Steam",
@@ -3830,7 +3830,7 @@
     "id": 100047211,
     "title": "Dead Cells",
     "sortName": "dead_cells_-__steam",
-    "isFullyOptimized": true,
+    "isFullyOptimized": false,
     "steamUrl": "https://store.steampowered.com/app/588650",
     "store": "Steam",
     "publisher": "Motion Twin",
@@ -5500,12 +5500,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817811,
+    "id": 100245011,
     "title": "Farming Simulator 19",
     "sortName": "farming_simulator_2019",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/787860",
+    "store": "Steam",
     "publisher": "Focus Home Interactive",
     "genres": [
       "Obične",
@@ -5515,12 +5515,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100245011,
+    "id": 100817811,
     "title": "Farming Simulator 19",
     "sortName": "farming_simulator_2019",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/787860",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Focus Home Interactive",
     "genres": [
       "Obične",
@@ -5588,12 +5588,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101570211,
+    "id": 100090511,
     "title": "Far Cry® 2: Fortune's Edition",
     "sortName": "far_cry_2",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/19900",
+    "store": "Steam",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5602,12 +5602,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100090511,
+    "id": 101570211,
     "title": "Far Cry® 2: Fortune's Edition",
     "sortName": "far_cry_2",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/19900",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -5661,7 +5661,7 @@
     "id": 100658911,
     "title": "Far Cry® 3",
     "sortName": "far_cry_3_epic_games",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "",
     "store": "Epic",
     "publisher": "Ubisoft",
@@ -5676,7 +5676,7 @@
     "id": 100166711,
     "title": "Far Cry® 3",
     "sortName": "far_cry_3_steam",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/220240",
     "store": "Steam",
     "publisher": "Ubisoft",
@@ -5826,7 +5826,7 @@
     "id": 100659011,
     "title": "Far Cry® New Dawn",
     "sortName": "far_cry_5a_epic_games",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "",
     "store": "Epic",
     "publisher": "Ubisoft",
@@ -6824,7 +6824,7 @@
     "id": 100374911,
     "title": "Half-Life®",
     "sortName": "half_life_1",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/70",
     "store": "Steam",
     "publisher": "Valve Software",
@@ -6849,6 +6849,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100370111,
+    "title": "Half-Life® 2",
+    "sortName": "half_life_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/220",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 19111,
     "title": "Half-Life® 2",
     "sortName": "half_life_2",
@@ -6859,20 +6873,6 @@
     "genres": [
       "Akcijske",
       "Pucanje u prvom licu"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100370111,
-    "title": "Half-Life® 2",
-    "sortName": "half_life_2",
-    "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/220",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Action",
-      "First-Person Shooter"
     ],
     "status": "AVAILABLE"
   },
@@ -7041,12 +7041,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18102411,
+    "id": 100936611,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/227940",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -7060,12 +7060,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100936611,
+    "id": 18102411,
     "title": "Heroes & Generals",
     "sortName": "heroes_and_generals_steam",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/227940",
+    "store": "Steam",
     "publisher": "RETO MOTO",
     "genres": [
       "Akcijske",
@@ -7216,7 +7216,7 @@
     "id": 18111711,
     "title": "HITMAN™",
     "sortName": "hitman_6_steam",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/236870",
     "store": "Steam",
     "publisher": "IO Interactive A/S",
@@ -7763,6 +7763,38 @@
       "Indie",
       "Velike internetske igre za više igrača",
       "Igre s ulogama",
+      "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101903411,
+    "title": "Industries of Titan",
+    "sortName": "industries_of_titan_-_epic_games_store",
+    "isFullyOptimized": false,
+    "steamUrl": "",
+    "store": "Epic",
+    "publisher": "Brace Yourself Games",
+    "genres": [
+      "Akcijske",
+      "Indie",
+      "Simulacijske",
+      "Strateške"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100273011,
+    "title": "Industries of Titan",
+    "sortName": "industries_of_titan_-_steam",
+    "isFullyOptimized": false,
+    "steamUrl": "https://store.steampowered.com/app/427940",
+    "store": "Steam",
+    "publisher": "Brace Yourself Games",
+    "genres": [
+      "Akcijske",
+      "Indie",
+      "Simulacijske",
       "Strateške"
     ],
     "status": "AVAILABLE"
@@ -11768,12 +11800,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817711,
+    "id": 100009811,
     "title": "Rayman® Legends",
     "sortName": "rayman_5",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Epic",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -11784,12 +11816,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100009811,
+    "id": 100817711,
     "title": "Rayman® Legends",
     "sortName": "rayman_5",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Ubisoft Connect",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Akcijske",
@@ -12473,12 +12505,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101865911,
+    "id": 100398511,
     "title": "Saints Row®: The Third™ Remastered",
     "sortName": "saints_row_3_remastered",
     "isFullyOptimized": false,
-    "steamUrl": "https://store.steampowered.com/app/978300",
-    "store": "Steam",
+    "steamUrl": "",
+    "store": "Epic",
     "publisher": "Deep Silver",
     "genres": [
       "Akcijske"
@@ -12486,12 +12518,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100398511,
+    "id": 101865911,
     "title": "Saints Row®: The Third™ Remastered",
     "sortName": "saints_row_3_remastered",
     "isFullyOptimized": false,
-    "steamUrl": "",
-    "store": "Epic",
+    "steamUrl": "https://store.steampowered.com/app/978300",
+    "store": "Steam",
     "publisher": "Deep Silver",
     "genres": [
       "Akcijske"
@@ -14095,7 +14127,7 @@
     "id": 100845211,
     "title": "Steep™",
     "sortName": "steep_egs",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "",
     "store": "Epic",
     "publisher": "Ubisoft",
@@ -14109,7 +14141,7 @@
     "id": 100165611,
     "title": "Steep™",
     "sortName": "steep_gfn_pc_steam",
-    "isFullyOptimized": false,
+    "isFullyOptimized": true,
     "steamUrl": "https://store.steampowered.com/app/460920",
     "store": "Steam",
     "publisher": "Ubisoft",
@@ -14973,20 +15005,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18114511,
-    "title": "Team Fortress 2",
-    "sortName": "team_fortress_2",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/440",
-    "store": "Steam",
-    "publisher": "Valve Software",
-    "genres": [
-      "Akcijske",
-      "Besplatno za igranje"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100376211,
     "title": "Team Fortress 2",
     "sortName": "team_fortress_2",
@@ -14997,6 +15015,20 @@
     "genres": [
       "Action",
       "Free To Play"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18114511,
+    "title": "Team Fortress 2",
+    "sortName": "team_fortress_2",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/440",
+    "store": "Steam",
+    "publisher": "Valve Software",
+    "genres": [
+      "Akcijske",
+      "Besplatno za igranje"
     ],
     "status": "AVAILABLE"
   },
@@ -15810,12 +15842,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100818311,
+    "id": 100817511,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Epic",
+    "store": "Ubisoft Connect",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -15825,12 +15857,12 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100817511,
+    "id": 100818311,
     "title": "Trackmania®",
     "sortName": "trackmania_2019",
     "isFullyOptimized": false,
     "steamUrl": "",
-    "store": "Ubisoft Connect",
+    "store": "Epic",
     "publisher": "Ubisoft",
     "genres": [
       "Arkadne",
@@ -16673,21 +16705,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100574411,
-    "title": "Warface",
-    "sortName": "warface",
-    "isFullyOptimized": true,
-    "steamUrl": "",
-    "store": "",
-    "publisher": "Mail.ru Group",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100574511,
     "title": "Warface",
     "sortName": "warface",
@@ -16699,6 +16716,21 @@
       "Akcijske",
       "Besplatno za igranje",
       "Velike internetske igre za više igrača"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100574411,
+    "title": "Warface",
+    "sortName": "warface",
+    "isFullyOptimized": true,
+    "steamUrl": "",
+    "store": "",
+    "publisher": "Mail.ru Group",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer Online"
     ],
     "status": "AVAILABLE"
   },
@@ -16763,21 +16795,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 11285111,
-    "title": "Warframe",
-    "sortName": "warframe",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/230410",
-    "store": "Steam",
-    "publisher": "Digital Extremes",
-    "genres": [
-      "Akcijske",
-      "Besplatno za igranje",
-      "Internetske igre u areni za više igrača"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100341511,
     "title": "Warframe",
     "sortName": "warframe",
@@ -16789,6 +16806,21 @@
       "Action",
       "Free To Play",
       "Multiplayer Online Battle Arena"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 11285111,
+    "title": "Warframe",
+    "sortName": "warframe",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/230410",
+    "store": "Steam",
+    "publisher": "Digital Extremes",
+    "genres": [
+      "Akcijske",
+      "Besplatno za igranje",
+      "Internetske igre u areni za više igrača"
     ],
     "status": "AVAILABLE"
   },
@@ -17081,22 +17113,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100234911,
-    "title": "War Thunder",
-    "sortName": "war_thunder_s",
-    "isFullyOptimized": true,
-    "steamUrl": "https://store.steampowered.com/app/236390",
-    "store": "Steam",
-    "publisher": "Gaijin Entertainment",
-    "genres": [
-      "Velike internetske igre za više igrača",
-      "Besplatno za igranje",
-      "Simulacijske",
-      "Akcijske"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100368511,
     "title": "War Thunder",
     "sortName": "war_thunder_s",
@@ -17109,6 +17125,22 @@
       "Free To Play",
       "Simulation",
       "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100234911,
+    "title": "War Thunder",
+    "sortName": "war_thunder_s",
+    "isFullyOptimized": true,
+    "steamUrl": "https://store.steampowered.com/app/236390",
+    "store": "Steam",
+    "publisher": "Gaijin Entertainment",
+    "genres": [
+      "Velike internetske igre za više igrača",
+      "Besplatno za igranje",
+      "Simulacijske",
+      "Akcijske"
     ],
     "status": "AVAILABLE"
   },
