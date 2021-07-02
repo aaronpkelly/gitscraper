@@ -992,6 +992,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100863611,
+    "title": "Farmer's Dynasty",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/678900",
+    "publisher": "Toplitz Productions",
+    "genres": [
+      "Role Playing",
+      "Simulation"
+    ],
+    "status": "MAINTENANCE"
+  },
+  {
     "id": 100353411,
     "title": "Pathologic 2",
     "isFullyOptimized": false,
@@ -1004,19 +1017,6 @@
       "Role Playing"
     ],
     "status": "AVAILABLE"
-  },
-  {
-    "id": 100863611,
-    "title": "Farmer's Dynasty",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/678900",
-    "publisher": "Toplitz Productions",
-    "genres": [
-      "Role Playing",
-      "Simulation"
-    ],
-    "status": "MAINTENANCE"
   },
   {
     "id": 100007311,
@@ -1529,6 +1529,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100134211,
+    "title": "Black Squad",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/550650",
+    "publisher": "NS STUDIO",
+    "genres": [
+      "First-Person Shooter",
+      "Action",
+      "Free To Play"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100351311,
     "title": "Totally Accurate Battle Simulator",
     "isFullyOptimized": false,
@@ -1540,20 +1554,6 @@
       "Indie",
       "Simulation",
       "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100134211,
-    "title": "Black Squad",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/550650",
-    "publisher": "NS STUDIO",
-    "genres": [
-      "First-Person Shooter",
-      "Action",
-      "Free To Play"
     ],
     "status": "AVAILABLE"
   },
@@ -1712,7 +1712,7 @@
       "Massively Multiplayer Online",
       "Role Playing"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 100898511,
@@ -1729,20 +1729,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100224311,
-    "title": "Tropico 6",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/492720",
-    "publisher": "Kalypso Media Group GmbH",
-    "genres": [
-      "Casual",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100476211,
     "title": "Automation - The Car Company Tycoon Game",
     "isFullyOptimized": false,
@@ -1751,6 +1737,20 @@
     "publisher": "Camshaft Software",
     "genres": [
       "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100224311,
+    "title": "Tropico 6",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/492720",
+    "publisher": "Kalypso Media Group GmbH",
+    "genres": [
+      "Casual",
       "Simulation",
       "Strategy"
     ],
@@ -2038,19 +2038,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100837111,
-    "title": "Assassin’s Creed® Chronicles: Russia",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100285711,
     "title": "Second Extinction™",
     "isFullyOptimized": false,
@@ -2061,6 +2048,19 @@
       "Action",
       "First-Person Shooter",
       "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100837111,
+    "title": "Assassin’s Creed® Chronicles: Russia",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action",
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -2079,20 +2079,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100029711,
-    "title": "Star Trek Online",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/9900",
-    "publisher": "Perfect World Entertainment",
-    "genres": [
-      "Free To Play",
-      "Massively Multiplayer Online",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100841211,
     "title": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
     "isFullyOptimized": false,
@@ -2105,16 +2091,16 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100427011,
-    "title": "The Escapists 2",
+    "id": 100029711,
+    "title": "Star Trek Online",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/641990",
-    "publisher": "Team17 Digital Limited",
+    "steamUrl": "https://store.steampowered.com/app/9900",
+    "publisher": "Perfect World Entertainment",
     "genres": [
-      "Indie",
-      "Simulation",
-      "Strategy"
+      "Free To Play",
+      "Massively Multiplayer Online",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -2133,6 +2119,20 @@
     "status": "MAINTENANCE"
   },
   {
+    "id": 100427011,
+    "title": "The Escapists 2",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/641990",
+    "publisher": "Team17 Digital Limited",
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100576511,
     "title": "Observer: System Redux",
     "isFullyOptimized": false,
@@ -2142,21 +2142,6 @@
     "genres": [
       "Adventure",
       "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100525311,
-    "title": "Medieval Engineers",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/333950",
-    "publisher": "Keen Software House s. r. o.",
-    "genres": [
-      "Action",
-      "Indie",
-      "Simulation",
-      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -2176,14 +2161,17 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18657311,
-    "title": "The Legend of Heroes: Trails in the Sky SC",
+    "id": 100525311,
+    "title": "Medieval Engineers",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/251290",
-    "publisher": "XSEED JKS, Inc.",
+    "steamUrl": "https://store.steampowered.com/app/333950",
+    "publisher": "Keen Software House s. r. o.",
     "genres": [
-      "Role Playing"
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -2198,6 +2186,18 @@
       "Action",
       "Adventure",
       "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18657311,
+    "title": "The Legend of Heroes: Trails in the Sky SC",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/251290",
+    "publisher": "XSEED JKS, Inc.",
+    "genres": [
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -2477,6 +2477,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100381911,
+    "title": "King's Bounty: The Legend",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/25900",
+    "publisher": "1C Company",
+    "genres": [
+      "Role Playing",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 300,
     "title": "Wolcen: Lords of Mayhem",
     "isFullyOptimized": false,
@@ -2488,19 +2501,6 @@
       "Adventure",
       "Indie",
       "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100381911,
-    "title": "King's Bounty: The Legend",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/25900",
-    "publisher": "1C Company",
-    "genres": [
-      "Role Playing",
-      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -2536,6 +2536,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100164811,
+    "title": "theHunter: Call of the Wild™",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/518790",
+    "publisher": "Avalanche Studios Stockholm",
+    "genres": [
+      "Adventure",
+      "Simulation",
+      "Sports"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 101752611,
     "title": "World of Warships",
     "isFullyOptimized": false,
@@ -2547,20 +2561,6 @@
       "Free To Play",
       "Massively Multiplayer Online",
       "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100164811,
-    "title": "theHunter: Call of the Wild™",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/518790",
-    "publisher": "Avalanche Studios Stockholm",
-    "genres": [
-      "Adventure",
-      "Simulation",
-      "Sports"
     ],
     "status": "AVAILABLE"
   },
@@ -2604,6 +2604,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100523211,
+    "title": "Conception PLUS: Maidens of the Twelve Stars",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/906510",
+    "publisher": "Spike Chunsoft Co., Ltd.",
+    "genres": [
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100220111,
     "title": "Salt and Sanctuary",
     "isFullyOptimized": false,
@@ -2613,18 +2625,6 @@
     "genres": [
       "Action",
       "Indie",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100523211,
-    "title": "Conception PLUS: Maidens of the Twelve Stars",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/906510",
-    "publisher": "Spike Chunsoft Co., Ltd.",
-    "genres": [
       "Role Playing"
     ],
     "status": "AVAILABLE"
@@ -2655,19 +2655,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101863211,
-    "title": "Tom Clancy's Rainbow Six Lockdown™",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Action",
-      "First-Person Shooter"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100855611,
     "title": "Tacoma",
     "isFullyOptimized": true,
@@ -2677,6 +2664,19 @@
     "genres": [
       "Adventure",
       "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101863211,
+    "title": "Tom Clancy's Rainbow Six Lockdown™",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action",
+      "First-Person Shooter"
     ],
     "status": "AVAILABLE"
   },
@@ -2876,18 +2876,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100892511,
-    "title": "HITMAN™",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "IO Interactive A/S",
-    "genres": [
-      "Action"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100080811,
     "title": "Firewatch",
     "isFullyOptimized": false,
@@ -2897,6 +2885,18 @@
     "genres": [
       "Adventure",
       "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100892511,
+    "title": "HITMAN™",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "IO Interactive A/S",
+    "genres": [
+      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -3235,22 +3235,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100933511,
-    "title": "Rising Storm 2: Vietnam",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Tripwire Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Massively Multiplayer Online",
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100185211,
     "title": "My Time at Portia",
     "isFullyOptimized": false,
@@ -3264,6 +3248,22 @@
       "Indie",
       "Role Playing",
       "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100933511,
+    "title": "Rising Storm 2: Vietnam",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Tripwire Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Massively Multiplayer Online",
+      "Simulation",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -3386,19 +3386,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100582511,
-    "title": "Othercide",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/798490",
-    "publisher": "Focus Home Interactive",
-    "genres": [
-      "Indie",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 101851011,
     "title": "Tour de France 2021",
     "isFullyOptimized": false,
@@ -3410,6 +3397,19 @@
       "Role Playing",
       "Simulation",
       "Sports",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100582511,
+    "title": "Othercide",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/798490",
+    "publisher": "Focus Home Interactive",
+    "genres": [
+      "Indie",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -3523,20 +3523,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18657411,
-    "title": "The Legend of Heroes: Trails in the Sky",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/251150",
-    "publisher": "XSEED JKS, Inc.",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 18102411,
     "title": "Heroes & Generals",
     "isFullyOptimized": false,
@@ -3551,6 +3537,20 @@
       "Massively Multiplayer Online",
       "Simulation",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18657411,
+    "title": "The Legend of Heroes: Trails in the Sky",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/251150",
+    "publisher": "XSEED JKS, Inc.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -3621,18 +3621,18 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100714411,
-    "title": "OneShot",
+    "id": 18104511,
+    "title": "Prison Architect",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/420530",
-    "publisher": "DEGICA Co., Ltd.",
+    "steamUrl": "https://store.steampowered.com/app/233450",
+    "publisher": "Paradox Interactive AB",
     "genres": [
-      "Adventure",
-      "Casual",
-      "Indie"
+      "Indie",
+      "Simulation",
+      "Strategy"
     ],
-    "status": "MAINTENANCE"
+    "status": "AVAILABLE"
   },
   {
     "id": 100404311,
@@ -3648,18 +3648,18 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18104511,
-    "title": "Prison Architect",
+    "id": 100714411,
+    "title": "OneShot",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/233450",
-    "publisher": "Paradox Interactive AB",
+    "steamUrl": "https://store.steampowered.com/app/420530",
+    "publisher": "DEGICA Co., Ltd.",
     "genres": [
-      "Indie",
-      "Simulation",
-      "Strategy"
+      "Adventure",
+      "Casual",
+      "Indie"
     ],
-    "status": "AVAILABLE"
+    "status": "MAINTENANCE"
   },
   {
     "id": 100656211,
@@ -3792,6 +3792,20 @@
     "genres": [
       "Indie",
       "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101617611,
+    "title": "Ziggurat 2",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1159560",
+    "publisher": "Milkstone Studios",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -3974,6 +3988,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100594711,
+    "title": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/410320",
+    "publisher": "D3 Publisher Inc.",
+    "genres": [
+      "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100039711,
     "title": "SMITE®",
     "isFullyOptimized": true,
@@ -3984,18 +4010,6 @@
       "Action",
       "Free To Play",
       "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100594711,
-    "title": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/410320",
-    "publisher": "D3 Publisher Inc.",
-    "genres": [
-      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -4082,20 +4096,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101808111,
-    "title": "Move or Die",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/323850",
-    "publisher": "Those Awesome Guys",
-    "genres": [
-      "Action",
-      "Arcade",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100219911,
     "title": "Cultist Simulator",
     "isFullyOptimized": false,
@@ -4106,6 +4106,20 @@
       "Indie",
       "Role Playing",
       "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101808111,
+    "title": "Move or Die",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/323850",
+    "publisher": "Those Awesome Guys",
+    "genres": [
+      "Action",
+      "Arcade",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -4207,19 +4221,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100229111,
-    "title": "Iron Harvest",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/826630",
-    "publisher": "Deep Silver",
-    "genres": [
-      "Indie",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100481011,
     "title": "Spacebase Startopia",
     "isFullyOptimized": false,
@@ -4228,6 +4229,19 @@
     "publisher": "Kalypso Media Group GmbH",
     "genres": [
       "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100229111,
+    "title": "Iron Harvest",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/826630",
+    "publisher": "Deep Silver",
+    "genres": [
+      "Indie",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -4545,19 +4559,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100141011,
-    "title": "Dual Universe",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Novaquark",
-    "genres": [
-      "Massively Multiplayer Online",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 101758011,
     "title": "Spacebase Startopia",
     "isFullyOptimized": false,
@@ -4567,6 +4568,19 @@
     "genres": [
       "Simulation",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100141011,
+    "title": "Dual Universe",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Novaquark",
+    "genres": [
+      "Massively Multiplayer Online",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -4683,19 +4697,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101833811,
-    "title": "Control",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/870780",
-    "publisher": "505 Games",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100478911,
     "title": "REZ PLZ",
     "isFullyOptimized": false,
@@ -4708,6 +4709,19 @@
       "Indie",
       "Platformer",
       "Puzzle"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101833811,
+    "title": "Control",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/870780",
+    "publisher": "505 Games",
+    "genres": [
+      "Action",
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -4797,19 +4811,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101897311,
-    "title": "Backbone",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Raw Fury Games",
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100856911,
     "title": "Cyberpunk 2077®",
     "isFullyOptimized": true,
@@ -4820,6 +4821,19 @@
       "Action",
       "Adventure",
       "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101897311,
+    "title": "Backbone",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Raw Fury Games",
+    "genres": [
+      "Adventure",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -4854,6 +4868,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100869211,
+    "title": "Car Trader Simulator",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/689980",
+    "publisher": "PlayWay S.A.",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100659111,
     "title": "Xuan-Yuan Sword VII",
     "isFullyOptimized": false,
@@ -4864,19 +4891,6 @@
       "Action",
       "Adventure",
       "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100869211,
-    "title": "Car Trader Simulator",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/689980",
-    "publisher": "PlayWay S.A.",
-    "genres": [
-      "Indie",
-      "Simulation"
     ],
     "status": "AVAILABLE"
   },
@@ -4910,19 +4924,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18107211,
-    "title": "X Rebirth",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/2870",
-    "publisher": "EGOSOFT GmbH",
-    "genres": [
-      "Action",
-      "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100198311,
     "title": "WRC 7 FIA World Rally Championship",
     "isFullyOptimized": false,
@@ -4932,6 +4933,19 @@
     "genres": [
       "Racing",
       "Sports",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18107211,
+    "title": "X Rebirth",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/2870",
+    "publisher": "EGOSOFT GmbH",
+    "genres": [
+      "Action",
       "Simulation"
     ],
     "status": "AVAILABLE"
@@ -5079,6 +5093,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100071311,
+    "title": "Life Is Strange™ 2",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/532210",
+    "publisher": "Square Enix",
+    "genres": [
+      "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 18541411,
     "title": "GWENT®: The Witcher Card Game",
     "isFullyOptimized": false,
@@ -5089,18 +5115,6 @@
       "Free To Play",
       "Role Playing",
       "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100071311,
-    "title": "Life Is Strange™ 2",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/532210",
-    "publisher": "Square Enix",
-    "genres": [
-      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -5427,20 +5441,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100061011,
-    "title": "Nex Machina",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/404540",
-    "publisher": "Housemarque Oy",
-    "genres": [
-      "Action",
-      "Arcade",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100009811,
     "title": "Rayman® Legends",
     "isFullyOptimized": false,
@@ -5452,6 +5452,20 @@
       "Adventure",
       "Family",
       "Platformer"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100061011,
+    "title": "Nex Machina",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/404540",
+    "publisher": "Housemarque Oy",
+    "genres": [
+      "Action",
+      "Arcade",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -5564,19 +5578,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101864611,
-    "title": "BIOMUTANT®",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "THQ Nordic GmbH",
-    "genres": [
-      "Action",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 101586111,
     "title": "Blair Witch",
     "isFullyOptimized": false,
@@ -5586,6 +5587,19 @@
     "genres": [
       "Adventure",
       "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101864611,
+    "title": "BIOMUTANT®",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "THQ Nordic GmbH",
+    "genres": [
+      "Action",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -5656,19 +5670,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100869311,
-    "title": "God's Trigger",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Techland sp. z o.o.",
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100659011,
     "title": "Far Cry® New Dawn",
     "isFullyOptimized": true,
@@ -5683,29 +5684,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100052811,
-    "title": "Skyborn",
+    "id": 100869311,
+    "title": "God's Trigger",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/278460",
-    "publisher": "DEGICA Co., Ltd.",
+    "steamUrl": "",
+    "publisher": "Techland sp. z o.o.",
     "genres": [
-      "Casual",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100304711,
-    "title": "Monster Energy Supercross - The Official Videogame 2",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/882020",
-    "publisher": "Milestone S.r.l.",
-    "genres": [
-      "Racing",
-      "Simulation",
-      "Sports"
+      "Action",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -5734,6 +5721,33 @@
       "Puzzle",
       "Simulation",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100052811,
+    "title": "Skyborn",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/278460",
+    "publisher": "DEGICA Co., Ltd.",
+    "genres": [
+      "Casual",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100304711,
+    "title": "Monster Energy Supercross - The Official Videogame 2",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/882020",
+    "publisher": "Milestone S.r.l.",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
     ],
     "status": "AVAILABLE"
   },
@@ -5778,15 +5792,14 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18545611,
-    "title": "Sniper Elite 4",
+    "id": 100536111,
+    "title": "Battlestar Galactica Deadlock™",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/312660",
-    "publisher": "Rebellion",
+    "steamUrl": "https://store.steampowered.com/app/544610",
+    "publisher": "Slitherine Ltd.",
     "genres": [
-      "Action",
-      "Adventure"
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -5804,14 +5817,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100536111,
-    "title": "Battlestar Galactica Deadlock™",
+    "id": 18545611,
+    "title": "Sniper Elite 4",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/544610",
-    "publisher": "Slitherine Ltd.",
+    "steamUrl": "https://store.steampowered.com/app/312660",
+    "publisher": "Rebellion",
     "genres": [
-      "Strategy"
+      "Action",
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -5858,19 +5872,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100689111,
-    "title": "Assassin's Creed® Unity",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100429611,
     "title": "Party Hard",
     "isFullyOptimized": false,
@@ -5881,6 +5882,19 @@
       "Action",
       "Indie",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100689111,
+    "title": "Assassin's Creed® Unity",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action",
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -5954,19 +5968,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18078711,
-    "title": "Rise of the Tomb Raider: 20 Year Celebration",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/391220",
-    "publisher": "Square Enix",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100366111,
     "title": "Path of Exile",
     "isFullyOptimized": true,
@@ -5982,16 +5983,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100566811,
-    "title": "Monster Energy Supercross - The Official Videogame 3",
-    "isFullyOptimized": false,
+    "id": 18078711,
+    "title": "Rise of the Tomb Raider: 20 Year Celebration",
+    "isFullyOptimized": true,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/1089830",
-    "publisher": "Milestone S.r.l.",
+    "steamUrl": "https://store.steampowered.com/app/391220",
+    "publisher": "Square Enix",
     "genres": [
-      "Racing",
-      "Simulation",
-      "Sports"
+      "Action",
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -6004,6 +6004,20 @@
     "publisher": "IO Interactive A/S",
     "genres": [
       "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100566811,
+    "title": "Monster Energy Supercross - The Official Videogame 3",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1089830",
+    "publisher": "Milestone S.r.l.",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
     ],
     "status": "AVAILABLE"
   },
@@ -6570,18 +6584,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100595411,
-    "title": "EARTH DEFENSE FORCE 4.1 WINGDIVER THE SHOOTER",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/574200",
-    "publisher": "D3 Publisher Inc.",
-    "genres": [
-      "Action"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 18541111,
     "title": "Snake Pass",
     "isFullyOptimized": true,
@@ -6593,6 +6595,18 @@
       "Family",
       "Indie",
       "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100595411,
+    "title": "EARTH DEFENSE FORCE 4.1 WINGDIVER THE SHOOTER",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/574200",
+    "publisher": "D3 Publisher Inc.",
+    "genres": [
+      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -6719,14 +6733,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100519611,
-    "title": "Enclave",
-    "isFullyOptimized": false,
+    "id": 99999411,
+    "title": "Watch_Dogs® 2",
+    "isFullyOptimized": true,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/253980",
-    "publisher": "TopWare Interactive",
+    "steamUrl": "",
+    "publisher": "Ubisoft",
     "genres": [
-      "Role Playing"
+      "Action",
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -6744,28 +6759,28 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 99999411,
-    "title": "Watch_Dogs® 2",
-    "isFullyOptimized": true,
+    "id": 100519611,
+    "title": "Enclave",
+    "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Ubisoft",
+    "steamUrl": "https://store.steampowered.com/app/253980",
+    "publisher": "TopWare Interactive",
     "genres": [
-      "Action",
-      "Adventure"
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
   {
-    "id": 100196011,
-    "title": "Metro: Last Light Redux",
-    "isFullyOptimized": true,
+    "id": 100456111,
+    "title": "Steel Division: Normandy 44",
+    "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/287390",
-    "publisher": "Deep Silver",
+    "steamUrl": "https://store.steampowered.com/app/572410",
+    "publisher": "Paradox Interactive AB",
     "genres": [
       "Action",
-      "First-Person Shooter"
+      "Simulation",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -6784,16 +6799,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100456111,
-    "title": "Steel Division: Normandy 44",
-    "isFullyOptimized": false,
+    "id": 100196011,
+    "title": "Metro: Last Light Redux",
+    "isFullyOptimized": true,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/572410",
-    "publisher": "Paradox Interactive AB",
+    "steamUrl": "https://store.steampowered.com/app/287390",
+    "publisher": "Deep Silver",
     "genres": [
       "Action",
-      "Simulation",
-      "Strategy"
+      "First-Person Shooter"
     ],
     "status": "AVAILABLE"
   },
@@ -6856,19 +6870,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100717911,
-    "title": "DoDonPachi Resurrectio",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/464450",
-    "publisher": "DEGICA Co., Ltd.",
-    "genres": [
-      "Action",
-      "Arcade"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100148911,
     "title": "Depth",
     "isFullyOptimized": false,
@@ -6878,6 +6879,19 @@
     "genres": [
       "Action",
       "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100717911,
+    "title": "DoDonPachi Resurrectio",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/464450",
+    "publisher": "DEGICA Co., Ltd.",
+    "genres": [
+      "Action",
+      "Arcade"
     ],
     "status": "AVAILABLE"
   },
@@ -6948,6 +6962,18 @@
     "genres": [
       "Simulation",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101707111,
+    "title": "EARTH DEFENSE FORCE: WORLD BROTHERS",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1497950",
+    "publisher": "D3 Publisher Inc.",
+    "genres": [
+      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -7034,20 +7060,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100904311,
-    "title": "Stick It to The Man!",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Ripstone",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 18078311,
     "title": "Far Cry® Primal",
     "isFullyOptimized": false,
@@ -7058,6 +7070,20 @@
       "Action",
       "Adventure",
       "First-Person Shooter"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100904311,
+    "title": "Stick It to The Man!",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Ripstone",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -7189,6 +7215,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100664711,
+    "title": "The Legend of Heroes: Trails of Cold Steel III",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/991270",
+    "publisher": "NIS America",
+    "genres": [
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100715911,
     "title": "Space Invaders Extreme™",
     "isFullyOptimized": false,
@@ -7198,18 +7236,6 @@
     "genres": [
       "Action",
       "Arcade"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100664711,
-    "title": "The Legend of Heroes: Trails of Cold Steel III",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/991270",
-    "publisher": "NIS America",
-    "genres": [
-      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -7313,6 +7339,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100390511,
+    "title": "Pro Cycling Manager 2019",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/936140",
+    "publisher": "Nacon",
+    "genres": [
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 101658011,
     "title": "Hood: Outlaws & Legends",
     "isFullyOptimized": false,
@@ -7324,18 +7362,6 @@
       "Adventure",
       "Massively Multiplayer Online",
       "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100390511,
-    "title": "Pro Cycling Manager 2019",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/936140",
-    "publisher": "Nacon",
-    "genres": [
-      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -7354,20 +7380,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101653911,
-    "title": "CRSED: F.O.A.D.",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Gaijin Entertainment",
-    "genres": [
-      "Action",
-      "Free To Play",
-      "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100378211,
     "title": "WRC 8 FIA World Rally Championship",
     "isFullyOptimized": false,
@@ -7378,6 +7390,20 @@
       "Racing",
       "Simulation",
       "Sports"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101653911,
+    "title": "CRSED: F.O.A.D.",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Gaijin Entertainment",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer Online"
     ],
     "status": "AVAILABLE"
   },
@@ -7547,6 +7573,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100709811,
+    "title": "Ghostrunner",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1139900",
+    "publisher": "505 Games",
+    "genres": [
+      "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100460111,
     "title": "Trainz: A New Era",
     "isFullyOptimized": false,
@@ -7572,18 +7610,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100709811,
-    "title": "Ghostrunner",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/1139900",
-    "publisher": "505 Games",
-    "genres": [
-      "Action"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100089411,
     "title": "Assassin’s Creed® Rogue",
     "isFullyOptimized": false,
@@ -7593,6 +7619,18 @@
     "genres": [
       "Action",
       "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100152911,
+    "title": "South Park™: The Fractured But Whole™",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/488790",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -7609,18 +7647,6 @@
       "Strategy"
     ],
     "status": "MAINTENANCE"
-  },
-  {
-    "id": 100152911,
-    "title": "South Park™: The Fractured But Whole™",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/488790",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
   },
   {
     "id": 100871611,
@@ -7766,21 +7792,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100478511,
-    "title": "Cyber Hook",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/1130410",
-    "publisher": "Graffiti Games",
-    "genres": [
-      "Action",
-      "Arcade",
-      "Indie",
-      "Platformer"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100269611,
     "title": "My Memory of Us",
     "isFullyOptimized": false,
@@ -7792,6 +7803,21 @@
       "Adventure",
       "Casual",
       "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100478511,
+    "title": "Cyber Hook",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1130410",
+    "publisher": "Graffiti Games",
+    "genres": [
+      "Action",
+      "Arcade",
+      "Indie",
+      "Platformer"
     ],
     "status": "AVAILABLE"
   },
@@ -7843,6 +7869,21 @@
     "genres": [
       "Simulation",
       "Racing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101854711,
+    "title": "SoulWorker",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1377580",
+    "publisher": "Lion Games Co., Ltd.",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer Online",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -7991,18 +8032,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100834811,
-    "title": "SAMURAI SHODOWN NEOGEO COLLECTION",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "SNK Corporation",
-    "genres": [
-      "Action"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100331011,
     "title": "The Isle",
     "isFullyOptimized": false,
@@ -8015,6 +8044,18 @@
       "Indie",
       "Massively Multiplayer Online",
       "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100834811,
+    "title": "SAMURAI SHODOWN NEOGEO COLLECTION",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "SNK Corporation",
+    "genres": [
+      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -8101,6 +8142,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101866011,
+    "title": "Chivalry 2",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Tripwire Interactive",
+    "genres": [
+      "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100045311,
     "title": "Squad",
     "isFullyOptimized": false,
@@ -8111,18 +8164,6 @@
       "Action",
       "Indie",
       "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 101866011,
-    "title": "Chivalry 2",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Tripwire Interactive",
-    "genres": [
-      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -8416,6 +8457,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100299211,
+    "title": "Parkitect",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/453090",
+    "publisher": "Texel Raptor",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100039111,
     "title": "PAYDAY 2",
     "isFullyOptimized": true,
@@ -8426,19 +8480,6 @@
       "Action",
       "First-Person Shooter",
       "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100299211,
-    "title": "Parkitect",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/453090",
-    "publisher": "Texel Raptor",
-    "genres": [
-      "Indie",
-      "Simulation"
     ],
     "status": "AVAILABLE"
   },
@@ -8508,6 +8549,20 @@
     "genres": [
       "Indie",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100725311,
+    "title": "Opus Magnum",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/558990",
+    "publisher": "Zachtronics",
+    "genres": [
+      "Indie",
+      "Puzzle",
+      "Simulation"
     ],
     "status": "AVAILABLE"
   },
@@ -8821,6 +8876,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101581411,
+    "title": "Eternal Return",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1049590",
+    "publisher": "Nimble Neuron",
+    "genres": [
+      "Free To Play",
+      "Indie",
+      "Multiplayer Online Battle Arena",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100143511,
     "title": "Jurassic World Evolution™",
     "isFullyOptimized": false,
@@ -8902,7 +8972,7 @@
       "Simulation",
       "Sports"
     ],
-    "status": "AVAILABLE"
+    "status": "PATCHING"
   },
   {
     "id": 100587911,
@@ -9139,6 +9209,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100243811,
+    "title": "Not Tonight",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/733790",
+    "publisher": "No More Robots",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Role Playing",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100768411,
     "title": "Untitled Goose Game",
     "isFullyOptimized": false,
@@ -9167,16 +9252,17 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100047211,
-    "title": "Dead Cells",
+    "id": 101630611,
+    "title": "Phoenix Point: Year One Edition",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/588650",
-    "publisher": "Motion Twin",
+    "steamUrl": "https://store.steampowered.com/app/839770",
+    "publisher": "Snapshot Games",
     "genres": [
       "Action",
       "Indie",
-      "Platformer"
+      "Role Playing",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -9194,16 +9280,28 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101630611,
-    "title": "Phoenix Point: Year One Edition",
+    "id": 100047211,
+    "title": "Dead Cells",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/839770",
-    "publisher": "Snapshot Games",
+    "steamUrl": "https://store.steampowered.com/app/588650",
+    "publisher": "Motion Twin",
     "genres": [
       "Action",
       "Indie",
-      "Role Playing",
+      "Platformer"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100499811,
+    "title": "The Guild II: Renaissance",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/39680",
+    "publisher": "THQ Nordic GmbH",
+    "genres": [
+      "Simulation",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -9220,19 +9318,6 @@
       "Racing",
       "Simulation",
       "Sports"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100499811,
-    "title": "The Guild II: Renaissance",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/39680",
-    "publisher": "THQ Nordic GmbH",
-    "genres": [
-      "Simulation",
-      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -9402,6 +9487,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100014411,
+    "title": "Styx: Master of Shadows",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/242640",
+    "publisher": "Nacon",
+    "genres": [
+      "Action",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100065611,
     "title": "Owlboy",
     "isFullyOptimized": false,
@@ -9424,19 +9522,6 @@
     "publisher": "XSEED JKS, Inc.",
     "genres": [
       "Action"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100014411,
-    "title": "Styx: Master of Shadows",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/242640",
-    "publisher": "Nacon",
-    "genres": [
-      "Action",
-      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -9510,6 +9595,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100407611,
+    "title": "Black Future '88",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/751820",
+    "publisher": "Good Shepherd Entertainment",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 18105811,
     "title": "Torchlight II",
     "isFullyOptimized": false,
@@ -9521,20 +9620,6 @@
       "Adventure",
       "Indie",
       "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100407611,
-    "title": "Black Future '88",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/751820",
-    "publisher": "Good Shepherd Entertainment",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -9578,20 +9663,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100821711,
-    "title": "Albion Online",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Sandbox Interactive GmbH",
-    "genres": [
-      "Free To Play",
-      "Massively Multiplayer Online",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 101628611,
     "title": "OUTRIDERS",
     "isFullyOptimized": true,
@@ -9601,6 +9672,20 @@
     "genres": [
       "Action",
       "Adventure",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100821711,
+    "title": "Albion Online",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Sandbox Interactive GmbH",
+    "genres": [
+      "Free To Play",
+      "Massively Multiplayer Online",
       "Role Playing"
     ],
     "status": "AVAILABLE"
@@ -9662,6 +9747,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100280611,
+    "title": "OUTRIDERS",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/680420",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100834011,
     "title": "Tomb Raider I",
     "isFullyOptimized": false,
@@ -9676,16 +9775,14 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100280611,
-    "title": "OUTRIDERS",
-    "isFullyOptimized": true,
+    "id": 100489511,
+    "title": "Asterix & Obelix XXL 3 - The Crystal Menhir",
+    "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/680420",
-    "publisher": "Square Enix",
+    "steamUrl": "https://store.steampowered.com/app/1109690",
+    "publisher": "Microids",
     "genres": [
-      "Action",
-      "Adventure",
-      "Role Playing"
+      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -9701,18 +9798,6 @@
       "Role Playing",
       "Simulation",
       "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100489511,
-    "title": "Asterix & Obelix XXL 3 - The Crystal Menhir",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/1109690",
-    "publisher": "Microids",
-    "genres": [
-      "Adventure"
     ],
     "status": "AVAILABLE"
   },
@@ -10129,20 +10214,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100598011,
-    "title": "Bad North: Jotunn Edition",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/688420",
-    "publisher": "Raw Fury Games",
-    "genres": [
-      "Action",
-      "Indie",
-      "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100129011,
     "title": "Absolver",
     "isFullyOptimized": false,
@@ -10167,6 +10238,20 @@
       "Action",
       "Adventure",
       "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100598011,
+    "title": "Bad North: Jotunn Edition",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/688420",
+    "publisher": "Raw Fury Games",
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
     ],
     "status": "AVAILABLE"
   },
@@ -10237,28 +10322,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101899011,
-    "title": "PowerWash® Simulator",
+    "id": 100014311,
+    "title": "Blood Bowl 2",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/1290000",
-    "publisher": "Square Enix",
+    "steamUrl": "https://store.steampowered.com/app/236690",
+    "publisher": "Focus Home Interactive",
     "genres": [
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 101847811,
-    "title": "The Legend of Heroes: Trails of Cold Steel IV",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "NIS America",
-    "genres": [
-      "Role Playing"
+      "Sports",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -10276,30 +10348,28 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100014311,
-    "title": "Blood Bowl 2",
+    "id": 101847811,
+    "title": "The Legend of Heroes: Trails of Cold Steel IV",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/236690",
-    "publisher": "Focus Home Interactive",
+    "steamUrl": "",
+    "publisher": "NIS America",
     "genres": [
-      "Sports",
-      "Strategy"
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
   {
-    "id": 100223211,
-    "title": "Empyrion - Galactic Survival",
+    "id": 101899011,
+    "title": "PowerWash® Simulator",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/383120",
-    "publisher": "Eleon Game Studios",
+    "steamUrl": "https://store.steampowered.com/app/1290000",
+    "publisher": "Square Enix",
     "genres": [
-      "Adventure",
+      "Casual",
       "Indie",
-      "Simulation",
-      "Strategy"
+      "Simulation"
     ],
     "status": "AVAILABLE"
   },
@@ -10321,6 +10391,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100223211,
+    "title": "Empyrion - Galactic Survival",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/383120",
+    "publisher": "Eleon Game Studios",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100632811,
     "title": "Last Oasis",
     "isFullyOptimized": false,
@@ -10333,6 +10418,18 @@
       "Indie",
       "Massively Multiplayer Online",
       "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101903111,
+    "title": "Slipways",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1264280",
+    "publisher": "Bettlewing",
+    "genres": [
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -10622,6 +10719,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100079811,
+    "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/20920",
+    "publisher": "CD PROJEKT RED",
+    "genres": [
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100131011,
     "title": "World of Tanks Blitz",
     "isFullyOptimized": false,
@@ -10632,18 +10741,6 @@
       "Action",
       "Free To Play",
       "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100079811,
-    "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/20920",
-    "publisher": "CD PROJEKT RED",
-    "genres": [
-      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -10731,20 +10828,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100430011,
-    "title": "The Final Station",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/435530",
-    "publisher": "tinyBuild",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100688711,
     "title": "Strategic Mind: The Pacific",
     "isFullyOptimized": false,
@@ -10755,6 +10838,20 @@
       "Indie",
       "Simulation",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100430011,
+    "title": "The Final Station",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/435530",
+    "publisher": "tinyBuild",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -11074,21 +11171,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100223111,
-    "title": "Shadowrun Returns",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/234650",
-    "publisher": "Paradox Interactive AB",
-    "genres": [
-      "Adventure",
-      "Indie",
-      "Role Playing",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 9029111,
     "title": "Dota 2",
     "isFullyOptimized": true,
@@ -11099,6 +11181,21 @@
       "Action",
       "Free To Play",
       "Multiplayer Online Battle Arena",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100223111,
+    "title": "Shadowrun Returns",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/234650",
+    "publisher": "Paradox Interactive AB",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Role Playing",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -11162,19 +11259,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101628811,
-    "title": "Pascal's Wager: Definitive Edition",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/1456650",
-    "publisher": "Giant Interactive",
-    "genres": [
-      "Action",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100805511,
     "title": "Shadowrun: Hong Kong - Extended Edition",
     "isFullyOptimized": false,
@@ -11186,6 +11270,19 @@
       "Indie",
       "Role Playing",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101628811,
+    "title": "Pascal's Wager: Definitive Edition",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1456650",
+    "publisher": "Giant Interactive",
+    "genres": [
+      "Action",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -11734,6 +11831,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100366411,
+    "title": "EARTH DEFENSE FORCE 5",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1007040",
+    "publisher": "D3 Publisher Inc.",
+    "genres": [
+      "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100901811,
     "title": "Apex Legends™",
     "isFullyOptimized": true,
@@ -11746,18 +11855,6 @@
       "First-Person Shooter",
       "Free To Play",
       "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100366411,
-    "title": "EARTH DEFENSE FORCE 5",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/1007040",
-    "publisher": "D3 Publisher Inc.",
-    "genres": [
-      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -11775,20 +11872,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100571211,
-    "title": "Curse of the Dead Gods",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/1123770",
-    "publisher": "Focus Home Interactive",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100803511,
     "title": "Power Of Seasons",
     "isFullyOptimized": false,
@@ -11801,6 +11884,20 @@
       "Casual",
       "Role Playing",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100571211,
+    "title": "Curse of the Dead Gods",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1123770",
+    "publisher": "Focus Home Interactive",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -11919,19 +12016,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100354111,
-    "title": "SpellForce 3: Soul Harvest",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/817540",
-    "publisher": "THQ Nordic GmbH",
-    "genres": [
-      "Role Playing",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100657211,
     "title": "Assassin’s Creed® Rogue",
     "isFullyOptimized": false,
@@ -11941,6 +12025,19 @@
     "genres": [
       "Action",
       "Adventure"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100354111,
+    "title": "SpellForce 3: Soul Harvest",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/817540",
+    "publisher": "THQ Nordic GmbH",
+    "genres": [
+      "Role Playing",
+      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -12035,6 +12132,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100836311,
+    "title": "Disco Elysium",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "ZA/UM Studio",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100069411,
     "title": "Trailmakers",
     "isFullyOptimized": false,
@@ -12047,20 +12158,6 @@
       "Indie",
       "Racing",
       "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100836311,
-    "title": "Disco Elysium",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "ZA/UM Studio",
-    "genres": [
-      "Adventure",
-      "Indie",
-      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -12412,6 +12509,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101908511,
+    "title": "The Spectrum Retreat",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Ripstone",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100152311,
     "title": "Metro Exodus",
     "isFullyOptimized": true,
@@ -12617,6 +12729,21 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101881911,
+    "title": "Castle Flipper",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/944250",
+    "publisher": "PlayWay S.A.",
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100430811,
     "title": "The Falconeer",
     "isFullyOptimized": false,
@@ -12738,18 +12865,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100870211,
-    "title": "Among Us",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/945360",
-    "publisher": "Innersloth",
-    "genres": [
-      "Casual"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100658111,
     "title": "Heroes of Might & Magic V",
     "isFullyOptimized": false,
@@ -12758,6 +12873,18 @@
     "publisher": "Ubisoft",
     "genres": [
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100870211,
+    "title": "Among Us",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/945360",
+    "publisher": "Innersloth",
+    "genres": [
+      "Casual"
     ],
     "status": "AVAILABLE"
   },
@@ -12902,19 +13029,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101662811,
-    "title": "Jurassic World Evolution™",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": true,
-    "steamUrl": "",
-    "publisher": "Frontier Developments",
-    "genres": [
-      "Simulation",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100385711,
     "title": "Space Rangers HD: A War Apart",
     "isFullyOptimized": false,
@@ -12925,6 +13039,19 @@
       "Action",
       "Adventure",
       "Role Playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101662811,
+    "title": "Jurassic World Evolution™",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": true,
+    "steamUrl": "",
+    "publisher": "Frontier Developments",
+    "genres": [
       "Simulation",
       "Strategy"
     ],
@@ -12976,20 +13103,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100271011,
-    "title": "Reigns: Game of Thrones",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/897820",
-    "publisher": "Devolver Digital",
-    "genres": [
-      "Adventure",
-      "Indie",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100843611,
     "title": "Crown Trick",
     "isFullyOptimized": false,
@@ -13001,6 +13114,20 @@
       "Indie",
       "Role Playing",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100271011,
+    "title": "Reigns: Game of Thrones",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/897820",
+    "publisher": "Devolver Digital",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -13030,6 +13157,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100074411,
+    "title": "Endless Space® 2 - Digital Deluxe Edition",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/392110",
+    "publisher": "SEGA Europe, Ltd.",
+    "genres": [
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100898911,
     "title": "Zelter",
     "isFullyOptimized": false,
@@ -13039,18 +13178,6 @@
     "genres": [
       "Action",
       "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100074411,
-    "title": "Endless Space® 2 - Digital Deluxe Edition",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/392110",
-    "publisher": "SEGA Europe, Ltd.",
-    "genres": [
-      "Strategy"
     ],
     "status": "AVAILABLE"
   },
@@ -13249,6 +13376,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100600711,
+    "title": "Fishing: Barents Sea",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/501080",
+    "publisher": "Astragon Entertainment",
+    "genres": [
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 101781611,
     "title": "Necromunda: Hired Gun",
     "isFullyOptimized": false,
@@ -13291,6 +13430,20 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 18114411,
+    "title": "Stardew Valley",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/413150",
+    "publisher": "ConcernedApe",
+    "genres": [
+      "Indie",
+      "Role Playing",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100139911,
     "title": "Totally Accurate Battlegrounds",
     "isFullyOptimized": false,
@@ -13302,20 +13455,6 @@
       "Casual",
       "Indie",
       "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 18114411,
-    "title": "Stardew Valley",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/413150",
-    "publisher": "ConcernedApe",
-    "genres": [
-      "Indie",
-      "Role Playing",
-      "Simulation"
     ],
     "status": "AVAILABLE"
   },
@@ -13619,6 +13758,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100658011,
+    "title": "Might & Magic® Heroes® VII",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Strategy",
+      "Role Playing"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100606811,
     "title": "Cloudpunk",
     "isFullyOptimized": false,
@@ -13628,19 +13780,6 @@
     "genres": [
       "Adventure",
       "Indie",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100658011,
-    "title": "Might & Magic® Heroes® VII",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Strategy",
       "Role Playing"
     ],
     "status": "AVAILABLE"
@@ -13901,6 +14040,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 101896411,
+    "title": "Strategic Mind: Fight for Freedom",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1381850",
+    "publisher": "Starni Games",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100309811,
     "title": "Subnautica",
     "isFullyOptimized": false,
@@ -13956,15 +14108,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100813011,
-    "title": "Half-Life 2: Deathmatch",
+    "id": 100301611,
+    "title": "DUSK",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/320",
-    "publisher": "Valve Software",
+    "steamUrl": "https://store.steampowered.com/app/519860",
+    "publisher": "New Blood Interactive",
     "genres": [
       "Action",
-      "First-Person Shooter"
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -13981,15 +14133,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100301611,
-    "title": "DUSK",
+    "id": 100813011,
+    "title": "Half-Life 2: Deathmatch",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/519860",
-    "publisher": "New Blood Interactive",
+    "steamUrl": "https://store.steampowered.com/app/320",
+    "publisher": "Valve Software",
     "genres": [
       "Action",
-      "Indie"
+      "First-Person Shooter"
     ],
     "status": "AVAILABLE"
   },
@@ -14024,19 +14176,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100088611,
-    "title": "Anno® 2070",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Ubisoft",
-    "genres": [
-      "Strategy",
-      "Simulation"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100868311,
     "title": "Struggling",
     "isFullyOptimized": false,
@@ -14054,6 +14193,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100088611,
+    "title": "Anno® 2070",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100152111,
     "title": "Golf With Your Friends",
     "isFullyOptimized": false,
@@ -14064,19 +14216,6 @@
       "Casual",
       "Indie",
       "Sports"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100655911,
-    "title": "Metro: 2033 Redux",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Deep Silver",
-    "genres": [
-      "Action",
-      "First-Person Shooter"
     ],
     "status": "AVAILABLE"
   },
@@ -14106,6 +14245,19 @@
       "Massively Multiplayer Online",
       "Racing",
       "Free To Play"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100655911,
+    "title": "Metro: 2033 Redux",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Deep Silver",
+    "genres": [
+      "Action",
+      "First-Person Shooter"
     ],
     "status": "AVAILABLE"
   },
@@ -14162,15 +14314,14 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100935911,
-    "title": "Amnesia: Rebirth",
+    "id": 18104311,
+    "title": "Pillars of Eternity",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Frictional Games",
+    "steamUrl": "https://store.steampowered.com/app/291650",
+    "publisher": "Paradox Interactive AB",
     "genres": [
-      "Adventure",
-      "Indie"
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -14188,14 +14339,15 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 18104311,
-    "title": "Pillars of Eternity",
+    "id": 100935911,
+    "title": "Amnesia: Rebirth",
     "isFullyOptimized": false,
     "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/291650",
-    "publisher": "Paradox Interactive AB",
+    "steamUrl": "",
+    "publisher": "Frictional Games",
     "genres": [
-      "Role Playing"
+      "Adventure",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -14238,19 +14390,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100080411,
-    "title": "Vampyr",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": true,
-    "steamUrl": "https://store.steampowered.com/app/427290",
-    "publisher": "Focus Home Interactive",
-    "genres": [
-      "Action",
-      "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100892911,
     "title": "Shadowrun: Dragonfall - Director’s Cut",
     "isFullyOptimized": false,
@@ -14262,6 +14401,19 @@
       "Indie",
       "Role Playing",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100080411,
+    "title": "Vampyr",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": true,
+    "steamUrl": "https://store.steampowered.com/app/427290",
+    "publisher": "Focus Home Interactive",
+    "genres": [
+      "Action",
+      "Role Playing"
     ],
     "status": "AVAILABLE"
   },
@@ -14404,6 +14556,19 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100004611,
+    "title": "GoNNER",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/437570",
+    "publisher": "Raw Fury Games",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100221711,
     "title": "Realm Royale",
     "isFullyOptimized": true,
@@ -14415,19 +14580,6 @@
       "Free To Play",
       "First-Person Shooter",
       "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100004611,
-    "title": "GoNNER",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/437570",
-    "publisher": "Raw Fury Games",
-    "genres": [
-      "Action",
-      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -14805,19 +14957,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101867811,
-    "title": "Iron Harvest",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Deep Silver",
-    "genres": [
-      "Indie",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100809011,
     "title": "ARK: Survival Evolved",
     "isFullyOptimized": true,
@@ -14832,6 +14971,19 @@
       "Role Playing"
     ],
     "status": "PATCHING"
+  },
+  {
+    "id": 101867811,
+    "title": "Iron Harvest",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Deep Silver",
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
   },
   {
     "id": 100152011,
@@ -14945,24 +15097,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100080311,
-    "title": "PixARK",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/593600",
-    "publisher": "Snail Game",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Casual",
-      "Indie",
-      "Massively Multiplayer Online",
-      "Role Playing",
-      "Strategy"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100600511,
     "title": "Bus Simulator 18",
     "isFullyOptimized": false,
@@ -14984,6 +15118,24 @@
     "genres": [
       "Action",
       "Indie",
+      "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100080311,
+    "title": "PixARK",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/593600",
+    "publisher": "Snail Game",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer Online",
+      "Role Playing",
       "Strategy"
     ],
     "status": "AVAILABLE"
@@ -15287,6 +15439,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 18278011,
+    "title": "Stellaris",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/281990",
+    "publisher": "Paradox Interactive AB",
+    "genres": [
+      "Strategy"
+    ],
+    "status": "MAINTENANCE"
+  },
+  {
     "id": 100051611,
     "title": "Drone Swarm",
     "isFullyOptimized": false,
@@ -15300,18 +15464,6 @@
       "Strategy"
     ],
     "status": "AVAILABLE"
-  },
-  {
-    "id": 18278011,
-    "title": "Stellaris",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/281990",
-    "publisher": "Paradox Interactive AB",
-    "genres": [
-      "Strategy"
-    ],
-    "status": "MAINTENANCE"
   },
   {
     "id": 100291211,
@@ -15403,19 +15555,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 101740911,
-    "title": "Hellish Quart",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/1000360",
-    "publisher": "Kubold",
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100436611,
     "title": "Goat Simulator",
     "isFullyOptimized": false,
@@ -15426,6 +15565,19 @@
       "Casual",
       "Indie",
       "Simulation"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 101740911,
+    "title": "Hellish Quart",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/1000360",
+    "publisher": "Kubold",
+    "genres": [
+      "Action",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -15511,19 +15663,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100070011,
-    "title": "Friday the 13th: The Game",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/438740",
-    "publisher": "Gun Media",
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100573811,
     "title": "Hyperdimension Neptunia Re;Birth1",
     "isFullyOptimized": false,
@@ -15533,6 +15672,19 @@
     "genres": [
       "Role Playing",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100070011,
+    "title": "Friday the 13th: The Game",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/438740",
+    "publisher": "Gun Media",
+    "genres": [
+      "Action",
+      "Indie"
     ],
     "status": "AVAILABLE"
   },
@@ -15840,6 +15992,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100588111,
+    "title": "GUILTY GEAR XX ACCENT CORE PLUS R",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/348550",
+    "publisher": "Arc System Works Co., Ltd.",
+    "genres": [
+      "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100067911,
     "title": "Battle Chasers: Nightwar",
     "isFullyOptimized": false,
@@ -15849,18 +16013,6 @@
     "genres": [
       "Indie",
       "Role Playing"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100588111,
-    "title": "GUILTY GEAR XX ACCENT CORE PLUS R",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/348550",
-    "publisher": "Arc System Works Co., Ltd.",
-    "genres": [
-      "Action"
     ],
     "status": "AVAILABLE"
   },
@@ -15906,20 +16058,6 @@
     "status": "AVAILABLE"
   },
   {
-    "id": 100846011,
-    "title": "Killing Floor 2",
-    "isFullyOptimized": true,
-    "isHighlightsSupported": false,
-    "steamUrl": "",
-    "publisher": "Tripwire Interactive",
-    "genres": [
-      "Action",
-      "First-Person Shooter",
-      "Massively Multiplayer Online"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
     "id": 100319811,
     "title": "Foundation",
     "isFullyOptimized": false,
@@ -15930,6 +16068,20 @@
       "Indie",
       "Simulation",
       "Strategy"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 100846011,
+    "title": "Killing Floor 2",
+    "isFullyOptimized": true,
+    "isHighlightsSupported": false,
+    "steamUrl": "",
+    "publisher": "Tripwire Interactive",
+    "genres": [
+      "Action",
+      "First-Person Shooter",
+      "Massively Multiplayer Online"
     ],
     "status": "AVAILABLE"
   },
@@ -16170,6 +16322,18 @@
     "status": "AVAILABLE"
   },
   {
+    "id": 100577811,
+    "title": "Zero Escape: The Nonary Games",
+    "isFullyOptimized": false,
+    "isHighlightsSupported": false,
+    "steamUrl": "https://store.steampowered.com/app/477740",
+    "publisher": "Spike Chunsoft Co., Ltd.",
+    "genres": [
+      "Action"
+    ],
+    "status": "AVAILABLE"
+  },
+  {
     "id": 100022811,
     "title": "Paladins®",
     "isFullyOptimized": true,
@@ -16180,18 +16344,6 @@
       "Action",
       "Free To Play",
       "Multiplayer Online Battle Arena"
-    ],
-    "status": "AVAILABLE"
-  },
-  {
-    "id": 100577811,
-    "title": "Zero Escape: The Nonary Games",
-    "isFullyOptimized": false,
-    "isHighlightsSupported": false,
-    "steamUrl": "https://store.steampowered.com/app/477740",
-    "publisher": "Spike Chunsoft Co., Ltd.",
-    "genres": [
-      "Action"
     ],
     "status": "AVAILABLE"
   },
